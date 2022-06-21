@@ -1,0 +1,628 @@
+Ticket No,Priority,State,Category,Sub Category,Create Date,Completed Date,Assignee,Customer Rating,Outcome,Days Open
+T01,High,California,Data Privacy,GDPR,2021-03-01 12:46:00,2021-03-06 16:35:00,Bob,5,Advised for a risk assessment,6.0
+T02,Low,Minnesota,Cyber Consultation,BCP/DR,2021-04-01 09:52:00,2021-01-17 09:44:00,Bob,5,Recommended Threat Assessment,75.0
+T03,High,Maryland,Cyber Security Breach,Firewall,2021-04-01 10:11:00,2021-04-01 11:43:00,Allan,5,Recommended Threat Assessment,1.0
+T04,Low,New York,Security Gap,Password non-expiry,2021-04-01 10:55:00,2021-01-18 11:06:00,Allan,5,Advised for a risk assessment,73.0
+T05,High,California,Cyber Security Breach,Malware Attack,2021-04-01 21:58:00,2021-11-01 12:20:00,Charlotte,5,Recommended Threat Assessment,214.0
+T06,Low,California,Cyber Consultation,New Application Launch,2021-05-01 00:00:00,2021-07-01 21:30:00,Sebastian,3,Resolved,62.0
+T07,High,Texas,Cyber Consultation,Application Offboarding,2021-05-01 21:27:00,2021-07-01 20:14:00,Martina,4,Advised for a risk assessment,61.0
+T08,High,Utah,Data Leak,Insider Threat,2021-05-01 21:33:00,2021-10-01 18:30:00,Martina,4,Recommended Threat Assessment,153.0
+T09,High,New Jersey,Data Privacy,HIPAA,2021-06-01 19:36:00,2021-11-01 10:17:00,Bob,2,Advised for a risk assessment,153.0
+T10,Low,California,Cyber Consultation,Segregation of Duties,2021-06-01 19:47:00,2021-10-01 11:04:00,Sylviya,4,Advised for a risk assessment,122.0
+T100,Low,California,Cyber Consultation,Database Security,2021-03-13 21:53:00,2021-03-17 18:36:00,Charlotte,5,Advised for a risk assessment,4.0
+T101,High,California,Data Leak,Insider Threat,2021-03-19 04:21:00,2021-03-19 04:23:00,Benny,2,Recommended Threat Assessment,1.0
+T102,High,Iowa,Cyber Security Breach,Malware Attack,2021-03-19 06:14:00,2021-03-25 14:25:00,Benny,5,Advised for a risk assessment,7.0
+T103,Medium,New Jersey,Cyber Consultation,Secure Development,2021-03-20 08:44:00,2021-03-20 08:52:00,Martina,5,Advised for a risk assessment,1.0
+T104,Low,Florida,Cyber Consultation,Segregation of Duties,2021-03-21 18:18:00,2021-09-06 12:11:00,Robbin,5,Resolved,169.0
+T105,Medium,Utah,Data Privacy,HIPAA,2021-03-25 18:56:00,2021-03-25 19:49:00,Sebastian,5,Advised for a risk assessment,1.0
+T106,High,California,Data Privacy,GDPR,2021-03-25 23:29:00,2021-03-06 18:54:00,Martina,5,Advised for a risk assessment,20.0
+T107,High,Michigan,Data Privacy,PCI-DSS,2021-03-27 15:20:00,2021-03-27 15:40:00,Sean,2,Resolved,1.0
+T108,High,Michigan,Data Privacy,PCI-DSS,2021-03-27 15:20:00,2021-03-27 15:40:00,Martina,2,Resolved,1.0
+T109,Low,Georgia,Data Leak,Insider Threat,2021-03-27 16:21:00,2021-03-06 19:36:00,Allan,5,Resolved,21.0
+T11,Low,Louisiana,Data Leak,Insider Threat,2021-07-01 14:38:00,2021-03-09 17:36:00,Kareema,4,Advised for a risk assessment,114.0
+T110,Medium,California,Data Privacy,Privacy Assessment,2021-03-27 17:44:00,2021-03-06 19:26:00,Martina,2,Recommended Threat Assessment,21.0
+T111,Medium,Connecticut,Security Gap,Obsolete Software,2021-03-31 09:37:00,2021-03-31 09:40:00,Allan,3,Resolved,1.0
+T112,Low,California,Cyber Consultation,New Application Launch,2021-03-31 09:46:00,2021-03-31 09:51:00,Allan,2,Recommended Threat Assessment,1.0
+T113,Medium,Wisconsin,Data Privacy,Privacy Assessment,2021-03-31 09:46:00,2021-03-06 19:56:00,Allan,3,Resolved,25.0
+T114,Low,California,Cyber Consultation,BCP/DR,2021-03-31 11:13:00,2021-03-31 11:38:00,Allan,3,Resolved,1.0
+T115,High,Florida,Cyber Security Breach,Malware Attack,2021-03-31 15:53:00,2021-04-06 12:27:00,Martina,5,Recommended Threat Assessment,6.0
+T116,Low,Oregon,Data Privacy,PCI-DSS,2021-01-04 00:35:00,2021-06-04 16:58:00,Martina,4,Resolved,152.0
+T117,High,New York,Data Privacy,GDPR,2021-01-04 00:38:00,2021-12-04 17:05:00,Bob,5,Resolved,335.0
+T118,High,California,Data Leak,Insider Threat,2021-01-04 15:51:00,2021-07-04 18:33:00,Cinderalla,5,Recommended Threat Assessment,182.0
+T119,Low,Virginia,Data Privacy,PCI-DSS,2021-02-04 02:55:00,2021-08-30 19:26:00,Martina,5,Recommended Threat Assessment,208.0
+T12,High,California,Cyber Consultation,Application Offboarding,2021-07-01 17:14:00,2021-01-18 11:03:00,Allan,4,Resolved,165.0
+T120,High,Pennsylvania,Data Privacy,Privacy Assessment,2021-05-04 10:14:00,2021-07-04 18:26:00,Aleena,3,Recommended Threat Assessment,62.0
+T121,High,Florida,Data Privacy,Privacy Assessment,2021-05-04 14:51:00,2021-05-05 10:31:00,Allan,4,Advised for a risk assessment,1.0
+T122,High,California,Cyber Security Breach,Malware Attack,2021-05-04 15:29:00,2021-08-04 16:49:00,Charlotte,2,Resolved,93.0
+T123,High,Rhode Island,Cyber Consultation,Secure Development,2021-07-04 05:50:00,2021-04-05 16:23:00,Sean,5,Advised for a risk assessment,90.0
+T124,Medium,New York,Cyber Consultation,New Application Launch,2021-07-04 13:55:00,2021-04-13 16:50:00,Charles,5,Recommended Threat Assessment,82.0
+T125,Medium,Virginia,Data Privacy,GDPR,2021-07-04 18:37:00,2021-08-04 17:28:00,Aleena,5,Advised for a risk assessment,31.0
+T126,High,Florida,Cyber Security Breach,Spyware,2021-07-04 20:36:00,2021-05-17 17:35:00,Aleena,4,Recommended Threat Assessment,49.0
+T127,High,Texas,Cyber Consultation,BCP/DR,2021-08-04 11:15:00,2021-05-26 11:15:00,Robbin,5,Advised for a risk assessment,70.0
+T128,High,Virginia,Cyber Consultation,New Application Launch,2021-08-04 12:53:00,2021-08-04 22:00:00,Aleena,4,Resolved,1.0
+T129,Low,Ohio,Data Privacy,Privacy Assessment,2021-08-04 18:58:00,2021-12-04 14:37:00,Cinderalla,5,Advised for a risk assessment,122.0
+T13,Low,California,Data Leak,Insider Threat,2021-07-01 17:14:00,2021-01-18 11:03:00,Allan,5,Resolved,165.0
+T130,Medium,New York,Security Gap,Unauthorized software,2021-08-04 19:26:00,2021-12-04 09:28:00,Aleena,2,Recommended Threat Assessment,122.0
+T131,Low,Arizona,Data Privacy,HIPAA,2021-10-04 01:56:00,2021-04-28 04:14:00,Martina,5,Recommended Threat Assessment,159.0
+T132,High,Georgia,Cyber Security Breach,Firewall,2021-12-04 14:04:00,2021-04-13 18:45:00,Aleena,3,Resolved,235.0
+T133,Low,Arizona,Cyber Consultation,Application Offboarding,2021-12-04 16:39:00,2021-04-19 17:00:00,Aleena,3,Resolved,229.0
+T134,High,Texas,Cyber Security Breach,Spyware,2021-12-04 20:14:00,2021-06-05 12:53:00,Robbin,4,Advised for a risk assessment,183.0
+T135,High,California,Data Privacy,PCI-DSS,2021-12-04 20:17:00,2021-04-16 12:57:00,Robbin,5,Recommended Threat Assessment,233.0
+T136,High,New York,Cyber Security Breach,Trojan Attack,2021-04-13 14:45:00,2021-04-15 14:21:00,Sebastian,2,Resolved,2.0
+T137,Medium,New York,Cyber Consultation,Segregation of Duties,2021-04-13 18:25:00,2021-04-19 14:07:00,Kareema,5,Recommended Threat Assessment,6.0
+T138,Low,California,Data Leak,Phishing,2021-04-13 22:55:00,2021-05-05 20:51:00,Sean,5,Advised for a risk assessment,22.0
+T139,High,Massachusetts,Data Leak,Vishing,2021-04-14 21:46:00,2021-04-19 18:13:00,Michael,5,Advised for a risk assessment,5.0
+T14,High,Florida,Cyber Consultation,Encryption,2021-07-01 20:22:00,2021-11-01 17:45:00,Veronica,2,Resolved,123.0
+T140,High,Ohio,Cyber Consultation,Access Management,2021-04-15 18:16:00,2021-04-19 09:53:00,Michael,5,Advised for a risk assessment,4.0
+T141,Low,Texas,Data Leak,Insider Threat,2021-04-15 18:50:00,2021-04-15 18:53:00,Michael,5,Resolved,1.0
+T142,High,New Mexico,Data Privacy,HIPAA,2021-04-15 20:16:00,2021-04-20 15:50:00,Cinderalla,5,Resolved,5.0
+T143,Low,Texas,Data Privacy,GDPR,2021-04-16 18:38:00,2021-04-27 20:27:00,Aleena,4,Resolved,12.0
+T144,High,New York,Data Leak,Vishing,2021-04-19 11:21:00,2021-04-19 19:32:00,Charlotte,5,Advised for a risk assessment,1.0
+T145,Medium,Nevada,Security Gap,Password non-expiry,2021-04-19 14:05:00,2021-04-27 11:05:00,Kareema,5,Resolved,8.0
+T146,Low,California,Data Privacy,GDPR,2021-04-19 15:49:00,2021-04-19 15:51:00,Charles,5,Advised for a risk assessment,1.0
+T147,Medium,Illinois,Data Privacy,Privacy Assessment,2021-04-19 16:50:00,2021-04-20 11:04:00,Michael,4,Resolved,1.0
+T148,Low,California,Cyber Consultation,New Application Launch,2021-04-20 07:11:00,2021-06-30 09:29:00,Michael,5,Resolved,72.0
+T149,High,Pennsylvania,Cyber Security Breach,Malware Attack,2021-04-20 14:36:00,2021-04-20 15:15:00,Michael,4,Resolved,1.0
+T15,Low,Georgia,Data Privacy,PCI-DSS,2021-10-01 17:10:00,2021-01-20 10:34:00,Bob,3,Advised for a risk assessment,255.0
+T150,Low,California,Security Gap,Unauthorized access,2021-04-20 15:37:00,2021-04-23 18:44:00,Cinderalla,4,Resolved,4.0
+T151,High,Utah,Data Privacy,GDPR,2021-04-20 17:31:00,2021-04-20 20:30:00,Martina,3,Recommended Threat Assessment,1.0
+T152,Low,North Carolina,Data Privacy,HIPAA,2021-04-20 17:55:00,2021-04-27 19:50:00,Sebastian,2,Recommended Threat Assessment,8.0
+T153,Low,Arizona,Data Privacy,HIPAA,2021-04-20 18:45:00,2021-04-20 18:47:00,Sean,5,Resolved,1.0
+T154,High,Texas,Cyber Consultation,New Application Launch,2021-04-20 19:59:00,2021-04-21 12:56:00,Sean,2,Recommended Threat Assessment,1.0
+T155,High,Florida,Cyber Security Breach,Firewall,2021-04-20 23:49:00,2021-04-21 11:23:00,Sean,3,Resolved,1.0
+T156,High,Minnesota,Cyber Consultation,Third Party Engagement,2021-04-21 10:56:00,2021-04-21 11:00:00,Sean,4,Resolved,1.0
+T157,Medium,North Carolina,Data Privacy,PCI-DSS,2021-04-21 11:45:00,2021-04-22 14:50:00,Kareema,5,Recommended Threat Assessment,2.0
+T158,Medium,California,Cyber Consultation,Segregation of Duties,2021-04-21 11:58:00,2021-04-22 14:49:00,Kareema,4,Resolved,2.0
+T159,Medium,Florida,Cyber Consultation,Application Offboarding,2021-04-21 22:38:00,2021-04-26 19:35:00,Martina,4,Advised for a risk assessment,5.0
+T16,Medium,California,Data Leak,Vishing,2021-10-01 17:10:00,2021-01-20 10:34:00,Bob,5,Advised for a risk assessment,255.0
+T160,High,California,Cyber Security Breach,Firewall,2021-04-22 02:13:00,2021-03-05 09:49:00,Sean,5,Resolved,48.0
+T161,High,California,Cyber Consultation,Segregation of Duties,2021-04-22 10:17:00,2021-04-22 12:40:00,Allan,5,Resolved,1.0
+T162,Low,California,Cyber Consultation,Application Offboarding,2021-04-22 11:08:00,2021-04-22 12:35:00,Allan,4,Recommended Threat Assessment,1.0
+T163,Low,Virginia,Security Gap,Unauthorized access,2021-04-22 11:18:00,2021-04-22 12:33:00,Allan,4,Advised for a risk assessment,1.0
+T164,Medium,Arizona,Cyber Consultation,Application Offboarding,2021-04-22 14:54:00,2021-04-27 11:00:00,Kareema,2,Recommended Threat Assessment,5.0
+T165,Low,New York,Cyber Consultation,Encryption,2021-04-22 15:21:00,2021-04-22 18:59:00,Kareema,2,Advised for a risk assessment,1.0
+T166,Medium,New York,Cyber Consultation,New Application Launch,2021-04-23 13:18:00,2021-04-26 14:13:00,Sean,2,Resolved,4.0
+T167,Low,Oregon,Data Privacy,GDPR,2021-04-23 16:42:00,2021-04-23 17:07:00,Bob,4,Resolved,1.0
+T168,High,Illinois,Security Gap,Obsolete Software,2021-04-25 16:48:00,2021-04-25 16:48:00,Bob,5,Resolved,0.0
+T169,High,Minnesota,Cyber Security Breach,Malware Attack,2021-04-25 16:50:00,2021-05-18 17:58:00,Robbin,5,Advised for a risk assessment,24.0
+T17,Low,New York,Data Leak,Phishing,2021-10-01 17:24:00,2021-01-21 20:07:00,Aleena,2,Resolved,253.0
+T170,Low,Florida,Data Privacy,HIPAA,2021-04-26 14:26:00,2021-04-28 13:05:00,Veronica,3,Resolved,2.0
+T171,High,Florida,Cyber Security Breach,Trojan Attack,2021-04-26 21:59:00,2021-06-24 15:37:00,Bob,2,Advised for a risk assessment,59.0
+T172,Low,Arizona,Data Privacy,HIPAA,2021-04-27 19:03:00,2021-05-18 16:00:00,Charlotte,5,Advised for a risk assessment,21.0
+T173,Medium,Missouri,Cyber Consultation,Third Party Engagement,2021-04-27 19:03:00,2021-05-18 16:00:00,Charlotte,2,Advised for a risk assessment,21.0
+T174,High,Louisiana,Cyber Security Breach,Malware Attack,2021-04-27 19:20:00,2021-04-29 21:00:00,Sylviya,5,Resolved,3.0
+T175,High,Tennessee,Data Privacy,PCI-DSS,2021-04-27 19:20:00,2021-04-29 21:00:00,Sylviya,5,Advised for a risk assessment,3.0
+T176,Low,Virginia,Data Privacy,Privacy Assessment,2021-04-28 21:21:00,2021-04-30 18:00:00,Martina,5,Recommended Threat Assessment,2.0
+T177,High,Kansas,Security Gap,Password non-expiry,2021-04-28 21:21:00,2021-04-30 18:00:00,Martina,4,Advised for a risk assessment,2.0
+T178,Medium,Virginia,Cyber Consultation,Encryption,2021-04-28 21:49:00,2021-05-14 00:11:00,Sean,3,Advised for a risk assessment,16.0
+T179,Low,Arizona,Data Privacy,HIPAA,2021-04-28 21:49:00,2021-05-14 00:11:00,Sean,5,Advised for a risk assessment,16.0
+T18,High,California,Cyber Security Breach,Firewall,2021-10-01 17:24:00,2021-01-21 20:07:00,Aleena,3,Advised for a risk assessment,253.0
+T180,Low,Pennsylvania,Cyber Consultation,New Application Launch,2021-04-28 22:11:00,2021-04-28 22:11:00,Sean,3,Resolved,0.0
+T181,Low,Colorado,Security Gap,Password non-expiry,2021-04-28 22:11:00,2021-04-28 22:11:00,Sean,4,Advised for a risk assessment,0.0
+T182,Low,Illinois,Data Privacy,HIPAA,2021-04-28 22:17:00,2021-04-05 16:20:00,Sean,2,Resolved,24.0
+T183,High,Illinois,Cyber Security Breach,Firewall,2021-04-28 22:17:00,2021-04-05 16:20:00,Sean,4,Resolved,24.0
+T184,Low,Texas,Data Privacy,HIPAA,2021-04-29 01:56:00,2021-07-16 12:57:00,Robbin,4,Advised for a risk assessment,79.0
+T185,High,Oregon,Cyber Consultation,Application Offboarding,2021-04-29 01:56:00,2021-07-16 12:57:00,Robbin,3,Recommended Threat Assessment,79.0
+T186,Low,New York,Data Leak,Phishing,2021-04-29 14:28:00,2021-09-27 18:58:00,Robbin,2,Resolved,152.0
+T187,High,Indiana,Data Privacy,GDPR,2021-04-29 15:28:00,2021-04-29 15:28:00,Bob,5,Advised for a risk assessment,0.0
+T188,High,Texas,Data Privacy,HIPAA,2021-04-29 17:25:00,2021-04-29 20:05:00,Bob,3,Recommended Threat Assessment,1.0
+T189,Low,Virginia,Data Leak,Insider Threat,2021-04-29 17:29:00,2021-04-29 17:30:00,Bob,4,Resolved,1.0
+T19,High,Virginia,Cyber Security Breach,Spyware,2021-11-01 12:15:00,2021-01-13 22:08:00,Charlotte,5,Advised for a risk assessment,292.0
+T190,Medium,Ohio,Data Privacy,HIPAA,2021-04-29 17:30:00,2021-04-29 20:05:00,Bob,5,Resolved,1.0
+T191,High,Ohio,Data Privacy,Privacy Assessment,2021-04-30 10:31:00,2021-04-30 18:57:00,Bob,3,Advised for a risk assessment,1.0
+T192,Medium,Delaware,Data Privacy,Privacy Assessment,2021-04-30 16:10:00,2021-05-13 17:18:00,Bob,5,Resolved,14.0
+T193,Low,Tennessee,Cyber Consultation,New Application Launch,2021-04-30 17:12:00,2021-04-05 16:04:00,Charles,4,Advised for a risk assessment,26.0
+T194,High,California,Data Privacy,GDPR,2021-03-05 12:46:00,2021-03-06 16:35:00,Bob,5,Advised for a risk assessment,2.0
+T195,High,California,Data Privacy,GDPR,2021-03-05 22:09:00,2021-10-05 18:32:00,Martina,4,Resolved,214.0
+T196,Low,Minnesota,Cyber Consultation,BCP/DR,2021-04-05 09:52:00,2021-05-17 09:44:00,Bob,5,Recommended Threat Assessment,42.0
+T197,High,Maryland,Cyber Security Breach,Firewall,2021-04-05 10:11:00,2021-04-05 11:43:00,Allan,5,Recommended Threat Assessment,1.0
+T198,High,Arizona,Cyber Security Breach,Malware Attack,2021-04-05 10:26:00,2021-04-05 11:47:00,Allan,2,Resolved,1.0
+T199,Low,New York,Security Gap,Password non-expiry,2021-04-05 10:55:00,2021-05-18 11:06:00,Allan,5,Advised for a risk assessment,44.0
+T20,Low,California,Data Privacy,HIPAA,2021-11-01 17:17:00,2021-01-13 11:46:00,Kareema,5,Resolved,293.0
+T200,High,California,Cyber Security Breach,Malware Attack,2021-04-05 21:58:00,2021-11-05 12:20:00,Charlotte,5,Recommended Threat Assessment,214.0
+T201,Low,California,Cyber Consultation,New Application Launch,2021-05-05 00:00:00,2021-07-05 21:30:00,Sebastian,3,Resolved,62.0
+T202,High,Texas,Cyber Consultation,Application Offboarding,2021-05-05 21:27:00,2021-07-05 20:14:00,Charlotte,4,Advised for a risk assessment,61.0
+T203,High,Utah,Data Leak,Insider Threat,2021-05-05 21:33:00,2021-10-05 18:30:00,Martina,4,Recommended Threat Assessment,153.0
+T204,High,New Jersey,Data Privacy,HIPAA,2021-06-05 19:36:00,2021-11-05 10:17:00,Bob,2,Advised for a risk assessment,153.0
+T205,Low,California,Cyber Consultation,Segregation of Duties,2021-06-05 19:47:00,2021-10-05 11:04:00,Sylviya,4,Advised for a risk assessment,122.0
+T206,High,Utah,Data Privacy,HIPAA,2021-06-05 23:44:00,2021-10-05 17:53:00,Martina,4,Recommended Threat Assessment,122.0
+T207,High,Missouri,Data Privacy,GDPR,2021-06-05 23:44:00,2021-10-05 17:53:00,Martina,5,Advised for a risk assessment,122.0
+T208,Low,Louisiana,Data Leak,Insider Threat,2021-07-05 14:38:00,2021-03-09 17:36:00,Kareema,4,Advised for a risk assessment,118.0
+T209,Medium,California,Security Gap,Obsolete Software,2021-07-05 14:38:00,2021-03-09 17:36:00,Kareema,3,Resolved,118.0
+T21,High,New York,Data Leak,Insider Threat,2021-11-01 17:17:00,2021-01-13 11:46:00,Kareema,2,Resolved,293.0
+T210,High,California,Cyber Consultation,Application Offboarding,2021-07-05 17:14:00,2021-05-18 11:03:00,Allan,4,Resolved,49.0
+T211,Low,California,Data Leak,Insider Threat,2021-07-05 17:14:00,2021-05-18 11:03:00,Allan,5,Resolved,49.0
+T212,High,Florida,Cyber Consultation,Encryption,2021-07-05 20:22:00,2021-11-05 17:45:00,Veronica,2,Resolved,123.0
+T213,High,Michigan,Data Leak,Insider Threat,2021-07-05 20:22:00,2021-11-05 17:45:00,Veronica,4,Resolved,123.0
+T214,Low,Georgia,Data Privacy,PCI-DSS,2021-10-05 17:10:00,2021-05-20 10:34:00,Bob,3,Advised for a risk assessment,139.0
+T215,Medium,California,Data Leak,Vishing,2021-10-05 17:10:00,2021-05-20 10:34:00,Bob,5,Advised for a risk assessment,139.0
+T216,Low,New York,Data Leak,Phishing,2021-10-05 17:24:00,2021-05-21 20:07:00,Aleena,2,Resolved,137.0
+T217,High,California,Cyber Security Breach,Firewall,2021-10-05 17:24:00,2021-05-21 20:07:00,Aleena,3,Advised for a risk assessment,137.0
+T218,High,Virginia,Cyber Security Breach,Spyware,2021-11-05 12:15:00,2021-05-13 22:08:00,Charlotte,5,Advised for a risk assessment,176.0
+T219,Medium,Oregon,Data Privacy,GDPR,2021-11-05 12:15:00,2021-05-13 22:08:00,Charlotte,5,Resolved,176.0
+T22,High,Florida,Cyber Security Breach,Malware Attack,2021-11-01 18:15:00,2021-01-13 11:10:00,Benny,5,Recommended Threat Assessment,293.0
+T220,Low,California,Data Privacy,HIPAA,2021-11-05 17:17:00,2021-05-13 11:46:00,Kareema,5,Resolved,177.0
+T221,High,New York,Data Leak,Insider Threat,2021-11-05 17:17:00,2021-05-13 11:46:00,Kareema,2,Resolved,177.0
+T222,High,Florida,Cyber Security Breach,Malware Attack,2021-11-05 18:15:00,2021-05-13 11:10:00,Benny,5,Recommended Threat Assessment,177.0
+T223,Medium,Colorado,Cyber Consultation,Segregation of Duties,2021-11-05 18:15:00,2021-05-13 11:10:00,Benny,4,Advised for a risk assessment,177.0
+T224,Medium,California,Data Privacy,PCI-DSS,2021-11-05 23:36:00,2021-05-17 21:45:00,Martina,5,Resolved,173.0
+T225,Medium,District of Columbia,Cyber Consultation,Segregation of Duties,2021-11-05 23:36:00,2021-05-17 21:45:00,Martina,4,Recommended Threat Assessment,173.0
+T226,High,California,Cyber Security Breach,Firewall,2021-12-05 11:55:00,2021-05-17 09:47:00,Benny,5,Resolved,203.0
+T227,High,Colorado,Data Privacy,HIPAA,2021-12-05 11:55:00,2021-05-17 09:47:00,Benny,5,Resolved,203.0
+T228,High,Virginia,Cyber Consultation,BCP/DR,2021-12-05 17:45:00,2021-05-13 11:45:00,Kareema,4,Advised for a risk assessment,207.0
+T229,High,Mississippi,Security Gap,Unauthorized access,2021-12-05 17:45:00,2021-05-13 11:45:00,Kareema,5,Advised for a risk assessment,207.0
+T23,Medium,California,Data Privacy,PCI-DSS,2021-11-01 23:36:00,2021-01-17 21:45:00,Martina,5,Resolved,289.0
+T230,Low,Illinois,Data Leak,Vishing,2021-05-13 10:30:00,2021-05-13 19:16:00,Benny,5,Resolved,1.0
+T231,High,Alabama,Cyber Security Breach,Spyware,2021-05-13 11:20:00,2021-05-13 12:02:00,Benny,5,Recommended Threat Assessment,1.0
+T232,High,Utah,Data Privacy,GDPR,2021-05-13 14:20:00,2021-05-17 10:43:00,Benny,5,Resolved,4.0
+T233,Low,California,Cyber Consultation,Database Security,2021-05-13 21:53:00,2021-05-17 18:36:00,Charlotte,5,Advised for a risk assessment,4.0
+T234,Low,Massachusetts,Data Privacy,Privacy Assessment,2021-05-14 13:09:00,2021-05-18 17:02:00,Martina,5,Advised for a risk assessment,5.0
+T235,Low,Ohio,Data Leak,Phishing,2021-05-17 09:56:00,2021-05-17 09:58:00,Benny,5,Resolved,1.0
+T236,Low,Florida,Cyber Consultation,Application Offboarding,2021-05-17 16:26:00,2021-07-16 09:06:00,Bob,5,Advised for a risk assessment,60.0
+T237,Medium,New York,Data Leak,Insider Threat,2021-05-17 21:07:00,2021-07-13 18:57:00,Martina,2,Resolved,57.0
+T238,High,California,Cyber Consultation,BCP/DR,2021-05-18 11:34:00,2021-07-16 12:54:00,Robbin,5,Resolved,60.0
+T239,High,New York,Data Privacy,HIPAA,2021-05-18 20:29:00,2021-02-06 10:13:00,Charles,5,Recommended Threat Assessment,102.0
+T24,High,California,Cyber Security Breach,Firewall,2021-12-01 11:55:00,2021-01-17 09:47:00,Benny,5,Resolved,319.0
+T240,Low,California,Data Privacy,HIPAA,2021-05-18 20:43:00,2021-05-25 19:11:00,Charles,5,Recommended Threat Assessment,7.0
+T241,High,California,Data Leak,Insider Threat,2021-05-19 04:21:00,2021-05-19 04:23:00,Benny,2,Recommended Threat Assessment,1.0
+T242,Medium,North Carolina,Data Leak,Phishing,2021-05-19 06:13:00,2021-05-19 18:52:00,Benny,5,Recommended Threat Assessment,1.0
+T243,High,Iowa,Cyber Security Breach,Malware Attack,2021-05-19 06:14:00,2021-05-25 14:25:00,Benny,5,Advised for a risk assessment,7.0
+T244,High,Wisconsin,Cyber Security Breach,Malware Attack,2021-05-19 13:58:00,2021-02-06 10:20:00,Martina,5,Resolved,103.0
+T245,High,California,Data Leak,Vishing,2021-05-19 18:34:00,2021-05-24 12:17:00,Martina,5,Recommended Threat Assessment,5.0
+T246,Medium,New Jersey,Cyber Consultation,Secure Development,2021-05-20 08:44:00,2021-05-20 08:52:00,Martina,5,Advised for a risk assessment,1.0
+T247,Low,District of Columbia,Data Privacy,Privacy Assessment,2021-05-20 15:49:00,2021-05-28 10:11:00,Cinderalla,5,Recommended Threat Assessment,8.0
+T248,High,New York,Data Privacy,HIPAA,2021-05-20 21:23:00,2021-05-20 21:27:00,Martina,5,Resolved,1.0
+T249,Low,Florida,Cyber Consultation,Segregation of Duties,2021-05-21 18:18:00,2021-09-06 12:11:00,Robbin,5,Resolved,108.0
+T25,High,Colorado,Data Privacy,HIPAA,2021-12-01 11:55:00,2021-01-17 09:47:00,Benny,5,Resolved,319.0
+T250,Low,Pennsylvania,Data Privacy,Privacy Assessment,2021-05-25 11:01:00,2021-05-31 11:30:00,Sebastian,5,Resolved,7.0
+T251,Medium,Utah,Data Privacy,HIPAA,2021-05-25 18:56:00,2021-05-25 19:49:00,Sebastian,5,Advised for a risk assessment,1.0
+T252,High,California,Data Privacy,GDPR,2021-05-25 23:29:00,2021-03-06 18:54:00,Martina,5,Advised for a risk assessment,81.0
+T253,High,Virginia,Data Leak,Phishing,2021-05-26 11:43:00,2021-05-26 11:46:00,Kareema,5,Resolved,1.0
+T254,High,Florida,Security Gap,Obsolete Software,2021-05-26 19:27:00,2021-09-22 11:17:00,Robbin,4,Recommended Threat Assessment,119.0
+T255,High,Michigan,Data Privacy,PCI-DSS,2021-05-27 15:20:00,2021-05-27 15:40:00,Martina,2,Resolved,1.0
+T256,High,North Carolina,Cyber Security Breach,Malware Attack,2021-05-27 15:58:00,2021-08-06 09:23:00,Martina,5,Advised for a risk assessment,71.0
+T257,Low,Georgia,Data Leak,Insider Threat,2021-05-27 16:21:00,2021-03-06 19:36:00,Allan,5,Resolved,82.0
+T258,Medium,California,Data Privacy,Privacy Assessment,2021-05-27 17:44:00,2021-03-06 19:26:00,Sylviya,2,Recommended Threat Assessment,82.0
+T259,Low,Washington,Cyber Consultation,Secure Development,2021-05-27 21:00:00,2021-05-27 21:20:00,Martina,5,Recommended Threat Assessment,1.0
+T26,High,Virginia,Cyber Consultation,BCP/DR,2021-12-01 17:45:00,2021-01-13 11:45:00,Kareema,4,Advised for a risk assessment,323.0
+T260,Low,Washington,Cyber Consultation,New Application Launch,2021-05-28 15:09:00,2021-06-22 16:21:00,Kareema,4,Resolved,26.0
+T261,Medium,Tennessee,Cyber Consultation,BCP/DR,2021-05-28 20:30:00,2021-06-15 11:00:00,Martina,5,Advised for a risk assessment,18.0
+T262,Medium,Connecticut,Security Gap,Obsolete Software,2021-05-31 09:37:00,2021-05-31 09:40:00,Allan,3,Resolved,1.0
+T263,Low,California,Cyber Consultation,New Application Launch,2021-05-31 09:46:00,2021-05-31 09:51:00,Allan,2,Recommended Threat Assessment,1.0
+T264,Medium,Wisconsin,Data Privacy,Privacy Assessment,2021-05-31 09:46:00,2021-03-06 19:56:00,Allan,3,Resolved,86.0
+T265,High,Connecticut,Cyber Consultation,Segregation of Duties,2021-05-31 09:46:00,2021-05-31 09:57:00,Allan,5,Resolved,1.0
+T266,Medium,Illinois,Cyber Consultation,Third Party Engagement,2021-05-31 10:04:00,2021-06-07 09:35:00,Allan,2,Resolved,7.0
+T267,Low,California,Cyber Consultation,BCP/DR,2021-05-31 11:13:00,2021-05-31 11:38:00,Allan,3,Resolved,1.0
+T268,High,Florida,Cyber Security Breach,Malware Attack,2021-05-31 15:53:00,2021-04-06 12:27:00,Sylviya,5,Recommended Threat Assessment,56.0
+T269,Medium,Maryland,Security Gap,Password non-expiry,2021-01-06 10:58:00,2021-07-06 10:45:00,Martina,5,Advised for a risk assessment,181.0
+T27,High,Alabama,Cyber Security Breach,Spyware,2021-01-13 11:20:00,2021-01-13 12:02:00,Benny,5,Recommended Threat Assessment,1.0
+T270,Low,Utah,Security Gap,Unauthorized software,2021-02-06 15:56:00,2021-09-06 19:23:00,Cinderalla,4,Resolved,213.0
+T271,High,New York,Cyber Security Breach,Malware Attack,2021-02-06 16:28:00,2021-06-14 15:50:00,Charlotte,5,Resolved,128.0
+T272,High,Texas,Cyber Security Breach,Malware Attack,2021-02-06 17:52:00,2021-07-15 17:32:00,Martina,5,Resolved,159.0
+T273,Low,Texas,Cyber Consultation,Application Offboarding,2021-02-06 22:41:00,2021-03-06 20:33:00,Martina,5,Resolved,28.0
+T274,High,New York,Data Leak,Phishing,2021-03-06 17:54:00,2021-09-21 09:53:00,Martina,3,Recommended Threat Assessment,199.0
+T275,Medium,California,Data Privacy,HIPAA,2021-04-06 15:11:00,2021-08-06 09:55:00,Martina,2,Resolved,122.0
+T276,High,Texas,Cyber Consultation,Database Security,2021-07-06 11:03:00,2021-07-06 11:05:00,Sebastian,4,Advised for a risk assessment,1.0
+T277,Low,Virginia,Data Privacy,Privacy Assessment,2021-07-06 16:14:00,2021-08-06 12:03:00,Charles,4,Recommended Threat Assessment,31.0
+T278,High,Virginia,Data Privacy,HIPAA,2021-07-06 23:13:00,2021-06-23 19:47:00,Martina,2,Advised for a risk assessment,14.0
+T279,High,New York,Cyber Consultation,Third Party Engagement,2021-08-06 15:33:00,2021-08-06 20:08:00,Bob,3,Advised for a risk assessment,1.0
+T28,High,Utah,Data Privacy,GDPR,2021-01-13 14:20:00,2021-01-17 10:43:00,Benny,5,Resolved,4.0
+T280,Low,Texas,Data Privacy,PCI-DSS,2021-08-06 17:18:00,2021-06-24 09:52:00,Bob,2,Recommended Threat Assessment,44.0
+T281,Medium,Utah,Cyber Consultation,New Application Launch,2021-08-06 18:30:00,2021-06-14 12:59:00,Veronica,4,Advised for a risk assessment,54.0
+T282,High,Washington,Cyber Consultation,Application Offboarding,2021-08-06 19:30:00,2021-09-06 10:55:00,Martina,5,Advised for a risk assessment,31.0
+T283,High,Ohio,Data Privacy,HIPAA,2021-09-06 11:04:00,2021-06-15 17:23:00,Charles,3,Advised for a risk assessment,83.0
+T284,Low,Massachusetts,Cyber Consultation,New Application Launch,2021-09-06 18:56:00,2021-01-07 22:06:00,Cinderalla,3,Resolved,242.0
+T285,High,Florida,Data Leak,Phishing,2021-09-06 19:44:00,2021-07-28 21:50:00,Aleena,5,Advised for a risk assessment,40.0
+T286,High,New York,Cyber Consultation,Application Offboarding,2021-09-06 19:57:00,2021-06-16 10:20:00,Cinderalla,5,Advised for a risk assessment,83.0
+T287,Medium,Virginia,Cyber Consultation,Access Management,2021-10-06 11:42:00,2021-07-22 11:06:00,Michael,4,Resolved,77.0
+T288,Low,Florida,Data Privacy,PCI-DSS,2021-10-06 19:35:00,2021-11-06 18:57:00,Sebastian,2,Recommended Threat Assessment,31.0
+T289,Low,Illinois,Data Privacy,HIPAA,2021-11-06 16:46:00,2021-11-06 16:48:00,Robbin,5,Recommended Threat Assessment,1.0
+T29,Low,California,Cyber Consultation,Database Security,2021-01-13 21:53:00,2021-01-17 18:36:00,Charlotte,5,Advised for a risk assessment,4.0
+T290,Medium,California,Data Privacy,GDPR,2021-11-06 19:22:00,2021-11-06 19:23:00,Robbin,5,Advised for a risk assessment,1.0
+T291,High,New York,Data Leak,Insider Threat,2021-11-06 23:15:00,2021-06-18 11:48:00,Charles,4,Resolved,142.0
+T292,Medium,Illinois,Security Gap,Password non-expiry,2021-06-14 11:43:00,2021-06-22 19:02:00,Michael,3,Advised for a risk assessment,9.0
+T293,Medium,Kansas,Security Gap,Obsolete Software,2021-06-14 11:55:00,2021-06-28 14:10:00,Sebastian,2,Resolved,15.0
+T294,High,Florida,Data Leak,Vishing,2021-06-14 12:07:00,2021-06-14 12:09:00,Michael,5,Resolved,1.0
+T295,High,New York,Cyber Consultation,BCP/DR,2021-06-14 14:00:00,2021-06-24 11:01:00,Cinderalla,3,Advised for a risk assessment,10.0
+T296,High,Texas,Data Privacy,HIPAA,2021-06-15 00:16:00,2021-06-30 18:18:00,Sebastian,4,Resolved,16.0
+T297,High,New York,Cyber Security Breach,Firewall,2021-06-15 17:07:00,2021-06-24 20:13:00,Sylviya,5,Resolved,10.0
+T298,High,Massachusetts,Cyber Security Breach,Spyware,2021-06-15 18:27:00,2021-06-22 19:07:00,Michael,3,Resolved,8.0
+T299,High,Michigan,Data Leak,Phishing,2021-06-16 20:45:00,2021-06-16 20:51:00,Robbin,5,Recommended Threat Assessment,1.0
+T30,High,California,Cyber Consultation,BCP/DR,2021-01-18 11:34:00,2021-07-16 12:54:00,Robbin,5,Resolved,180.0
+T300,High,Nevada,Data Leak,Vishing,2021-06-17 12:19:00,2021-06-29 13:16:00,Robbin,5,Recommended Threat Assessment,13.0
+T301,Low,Colorado,Data Leak,Phishing,2021-06-18 16:41:00,2021-06-18 19:38:00,Robbin,2,Resolved,1.0
+T302,High,Texas,Data Privacy,GDPR,2021-06-18 19:35:00,2021-06-21 18:27:00,Veronica,5,Recommended Threat Assessment,3.0
+T303,Low,Kentucky,Cyber Consultation,Encryption,2021-06-21 10:55:00,2021-06-22 16:24:00,Kareema,5,Advised for a risk assessment,2.0
+T304,Medium,Maryland,Cyber Consultation,Application Offboarding,2021-06-21 11:12:00,2021-06-25 16:52:00,Kareema,5,Advised for a risk assessment,5.0
+T305,Low,California,Cyber Consultation,Third Party Engagement,2021-06-21 16:03:00,2021-06-25 15:11:00,Charles,5,Advised for a risk assessment,4.0
+T306,Medium,Illinois,Data Leak,Phishing,2021-06-21 20:08:00,2021-06-26 10:59:00,Cinderalla,4,Advised for a risk assessment,5.0
+T307,Low,Virginia,Data Leak,Insider Threat,2021-06-22 15:04:00,2021-01-07 00:38:00,Sean,5,Recommended Threat Assessment,167.0
+T308,Medium,New Jersey,Data Privacy,PCI-DSS,2021-06-22 17:44:00,2021-06-22 17:47:00,Robbin,2,Recommended Threat Assessment,1.0
+T309,High,South Carolina,Cyber Security Breach,Spyware,2021-06-23 13:26:00,2021-06-23 13:28:00,Michael,4,Recommended Threat Assessment,1.0
+T31,High,California,Data Leak,Insider Threat,2021-01-19 04:21:00,2021-01-19 04:23:00,Benny,2,Recommended Threat Assessment,1.0
+T310,High,Virginia,Cyber Security Breach,Malware Attack,2021-06-23 13:30:00,2021-06-23 13:32:00,Michael,3,Advised for a risk assessment,1.0
+T311,Medium,Massachusetts,Cyber Consultation,Access Management,2021-06-23 15:31:00,2021-06-24 16:50:00,Charles,5,Resolved,2.0
+T312,High,Georgia,Cyber Security Breach,Firewall,2021-06-23 17:29:00,2021-06-07 14:33:00,Sean,5,Advised for a risk assessment,17.0
+T313,Low,New York,Security Gap,Obsolete Software,2021-06-23 19:07:00,2021-06-23 19:55:00,Cinderalla,5,Recommended Threat Assessment,1.0
+T314,High,North Carolina,Cyber Security Breach,Malware Attack,2021-06-25 16:12:00,2021-06-25 22:46:00,Charlotte,5,Resolved,1.0
+T315,High,California,Data Leak,Phishing,2021-06-25 20:27:00,2021-04-08 13:46:00,Michael,2,Resolved,79.0
+T316,High,Virginia,Data Privacy,GDPR,2021-06-28 14:31:00,2021-06-29 17:07:00,Kareema,3,Recommended Threat Assessment,2.0
+T317,Low,California,Data Privacy,PCI-DSS,2021-06-30 19:00:00,2021-08-30 18:38:00,Martina,5,Advised for a risk assessment,61.0
+T318,High,Florida,Data Privacy,Privacy Assessment,2021-06-30 20:20:00,2021-06-30 20:26:00,Allan,5,Recommended Threat Assessment,1.0
+T319,Low,Louisiana,Cyber Consultation,Access Management,2021-06-30 20:31:00,2021-06-30 20:33:00,Allan,2,Advised for a risk assessment,1.0
+T32,High,Iowa,Cyber Security Breach,Malware Attack,2021-01-19 06:14:00,2021-01-25 14:25:00,Benny,5,Advised for a risk assessment,7.0
+T320,Medium,California,Cyber Consultation,New Application Launch,2021-06-30 20:36:00,2021-06-30 20:39:00,Allan,5,Advised for a risk assessment,1.0
+T321,Medium,Illinois,Cyber Consultation,New Application Launch,2021-06-30 20:41:00,2021-06-30 20:44:00,Allan,5,Recommended Threat Assessment,1.0
+T322,High,Indiana,Data Leak,Insider Threat,2021-06-30 20:46:00,2021-06-30 20:50:00,Allan,5,Recommended Threat Assessment,1.0
+T323,Medium,Alabama,Data Privacy,PCI-DSS,2021-06-30 20:52:00,2021-06-30 21:02:00,Allan,3,Advised for a risk assessment,1.0
+T324,Low,California,Data Leak,Insider Threat,2021-06-30 21:07:00,2021-06-30 21:11:00,Allan,5,Recommended Threat Assessment,1.0
+T325,High,Wisconsin,Data Privacy,HIPAA,2021-06-30 21:39:00,2021-12-07 12:01:00,Robbin,3,Resolved,160.0
+T326,High,District of Columbia,Cyber Security Breach,Spyware,2021-01-07 19:12:00,2021-07-13 17:55:00,Michael,5,Resolved,187.0
+T327,Low,New York,Cyber Consultation,BCP/DR,2021-01-07 20:03:00,2021-12-07 13:39:00,Cinderalla,4,Resolved,334.0
+T328,Medium,Florida,Data Privacy,PCI-DSS,2021-05-07 12:44:00,2021-07-14 20:14:00,Bob,5,Advised for a risk assessment,69.0
+T329,High,North Carolina,Cyber Security Breach,Firewall,2021-05-07 16:00:00,2021-07-13 17:48:00,Bob,5,Resolved,68.0
+T33,Medium,New Jersey,Cyber Consultation,Secure Development,2021-01-20 08:44:00,2021-01-20 08:52:00,Martina,5,Advised for a risk assessment,1.0
+T330,Medium,Georgia,Data Leak,Phishing,2021-06-07 17:38:00,2021-08-07 18:28:00,Charles,4,Resolved,62.0
+T331,High,Nebraska,Cyber Consultation,Third Party Engagement,2021-06-07 21:15:00,2021-07-07 21:33:00,Veronica,2,Advised for a risk assessment,31.0
+T332,High,California,Data Leak,Vishing,2021-07-07 18:36:00,2021-07-14 11:47:00,Aleena,5,Resolved,7.0
+T333,High,Minnesota,Security Gap,Obsolete Software,2021-07-07 21:39:00,2021-09-07 19:51:00,Sylviya,4,Advised for a risk assessment,62.0
+T334,Medium,Hawaii,Data Privacy,GDPR,2021-08-07 01:39:00,2021-08-07 01:39:00,Michael,5,Advised for a risk assessment,0.0
+T335,Medium,District of Columbia,Cyber Consultation,Database Security,2021-08-07 17:26:00,2021-07-19 10:54:00,Cinderalla,2,Recommended Threat Assessment,20.0
+T336,Low,Florida,Security Gap,Unauthorized software,2021-09-07 11:48:00,2021-09-07 11:50:00,Michael,5,Advised for a risk assessment,1.0
+T337,Low,Florida,Data Leak,Insider Threat,2021-09-07 21:08:00,2021-07-19 14:34:00,Bob,5,Resolved,51.0
+T338,High,Virginia,Cyber Security Breach,Firewall,2021-09-07 21:31:00,2021-07-21 15:12:00,Bob,2,Recommended Threat Assessment,49.0
+T339,High,Tennessee,Security Gap,Obsolete Software,2021-10-07 00:33:00,2021-07-24 01:14:00,Charlotte,4,Resolved,75.0
+T34,Low,Florida,Cyber Consultation,Segregation of Duties,2021-01-21 18:18:00,2021-09-06 12:11:00,Robbin,5,Resolved,228.0
+T340,Low,District of Columbia,Data Privacy,GDPR,2021-12-07 14:57:00,2021-07-19 10:03:00,Charles,2,Resolved,142.0
+T341,Medium,New York,Cyber Consultation,Access Management,2021-07-13 23:18:00,2021-07-15 17:54:00,Sean,5,Advised for a risk assessment,2.0
+T342,High,Pennsylvania,Data Privacy,Privacy Assessment,2021-07-14 12:52:00,2021-07-14 12:55:00,Charles,5,Resolved,1.0
+T343,Low,North Carolina,Data Privacy,PCI-DSS,2021-07-14 21:37:00,2021-07-16 18:04:00,Charlotte,5,Recommended Threat Assessment,2.0
+T344,High,Indiana,Cyber Consultation,Application Offboarding,2021-07-15 15:34:00,2021-07-21 16:54:00,Kareema,4,Resolved,7.0
+T345,Low,Colorado,Security Gap,Obsolete Software,2021-07-16 16:02:00,2021-07-22 22:31:00,Aleena,5,Recommended Threat Assessment,7.0
+T346,Medium,California,Data Privacy,PCI-DSS,2021-07-16 16:03:00,2021-07-22 22:26:00,Aleena,5,Advised for a risk assessment,7.0
+T347,Medium,New Hampshire,Cyber Consultation,New Application Launch,2021-07-16 20:04:00,2021-07-22 11:38:00,Charles,5,Resolved,6.0
+T348,Low,California,Data Leak,Phishing,2021-07-18 17:55:00,2021-08-17 22:07:00,Michael,5,Advised for a risk assessment,31.0
+T349,High,Florida,Security Gap,Obsolete Software,2021-07-19 10:56:00,2021-07-21 14:54:00,Sebastian,2,Resolved,3.0
+T35,Medium,Utah,Data Privacy,HIPAA,2021-01-25 18:56:00,2021-01-25 19:49:00,Sebastian,5,Advised for a risk assessment,1.0
+T350,Medium,Pennsylvania,Data Leak,Phishing,2021-07-20 18:21:00,2021-07-21 12:38:00,Michael,5,Advised for a risk assessment,1.0
+T351,Medium,California,Data Privacy,Privacy Assessment,2021-07-20 20:00:00,2021-07-21 12:43:00,Michael,2,Resolved,1.0
+T352,Low,New Jersey,Data Privacy,GDPR,2021-07-20 20:03:00,2021-07-20 20:20:00,Michael,4,Resolved,1.0
+T353,Low,Washington,Data Privacy,PCI-DSS,2021-07-21 16:32:00,2021-07-22 11:40:00,Charles,5,Recommended Threat Assessment,1.0
+T354,Low,Illinois,Data Privacy,HIPAA,2021-07-21 22:01:00,2021-07-22 16:19:00,Michael,3,Advised for a risk assessment,1.0
+T355,Low,Oregon,Data Privacy,GDPR,2021-07-23 17:40:00,2021-07-28 18:43:00,Martina,5,Resolved,6.0
+T356,Low,Utah,Data Privacy,Privacy Assessment,2021-07-23 20:39:00,2021-04-08 09:29:00,Charles,5,Resolved,107.0
+T357,High,California,Data Privacy,Privacy Assessment,2021-07-26 20:18:00,2021-07-26 20:21:00,Michael,4,Advised for a risk assessment,1.0
+T358,Low,Iowa,Data Privacy,PCI-DSS,2021-07-26 20:23:00,2021-03-08 17:40:00,Robbin,4,Resolved,141.0
+T359,High,Connecticut,Cyber Security Breach,Spyware,2021-07-27 11:07:00,2021-07-29 21:29:00,Kareema,5,Recommended Threat Assessment,3.0
+T36,High,California,Data Privacy,GDPR,2021-01-25 23:29:00,2021-03-06 18:54:00,Martina,5,Advised for a risk assessment,40.0
+T360,High,Rhode Island,Cyber Security Breach,Malware Attack,2021-07-27 11:38:00,2021-07-27 11:57:00,Allan,5,Advised for a risk assessment,1.0
+T361,High,Arizona,Data Privacy,GDPR,2021-07-27 12:06:00,2021-07-27 12:12:00,Allan,5,Resolved,1.0
+T362,Low,Florida,Data Leak,Insider Threat,2021-07-27 12:23:00,2021-07-27 12:41:00,Allan,2,Advised for a risk assessment,1.0
+T363,High,California,Cyber Security Breach,Spyware,2021-07-27 13:54:00,2021-03-11 19:17:00,Benny,4,Advised for a risk assessment,138.0
+T364,High,North Carolina,Cyber Security Breach,Firewall,2021-07-27 17:17:00,2021-08-19 00:10:00,Martina,4,Resolved,23.0
+T365,Medium,California,Data Privacy,Privacy Assessment,2021-07-27 19:16:00,2021-07-27 19:25:00,Robbin,5,Resolved,1.0
+T366,Low,California,Data Privacy,HIPAA,2021-07-27 21:03:00,2021-07-28 18:10:00,Martina,4,Resolved,1.0
+T367,High,Florida,Cyber Security Breach,Malware Attack,2021-07-27 21:38:00,2021-09-08 18:29:00,Cinderalla,2,Recommended Threat Assessment,43.0
+T368,Low,Texas,Data Privacy,PCI-DSS,2021-07-28 16:51:00,2021-06-08 14:53:00,Aleena,4,Advised for a risk assessment,51.0
+T369,Low,California,Data Privacy,GDPR,2021-07-28 23:43:00,2021-07-28 23:43:00,Michael,3,Resolved,0.0
+T37,High,Michigan,Data Privacy,PCI-DSS,2021-01-27 15:20:00,2021-01-27 15:40:00,Martina,2,Resolved,1.0
+T370,Low,New York,Data Privacy,GDPR,2021-07-29 12:47:00,2021-04-08 13:48:00,Michael,5,Resolved,112.0
+T371,Low,South Carolina,Security Gap,Unauthorized access,2021-07-29 18:47:00,2021-08-13 12:58:00,Robbin,3,Resolved,15.0
+T372,High,Pennsylvania,Cyber Security Breach,Spyware,2021-07-29 18:53:00,2021-08-16 18:24:00,Sebastian,3,Advised for a risk assessment,18.0
+T373,High,Ohio,Cyber Security Breach,Trojan Attack,2021-07-30 16:44:00,2021-03-08 17:39:00,Robbin,4,Advised for a risk assessment,144.0
+T374,High,New York,Data Privacy,PCI-DSS,2021-07-30 20:31:00,2021-05-08 17:28:00,Charles,5,Advised for a risk assessment,84.0
+T375,High,New Jersey,Data Privacy,GDPR,2021-02-08 10:42:00,2021-04-08 10:29:00,Charles,3,Advised for a risk assessment,59.0
+T376,High,California,Cyber Security Breach,Firewall,2021-02-08 19:12:00,2021-08-16 18:28:00,Martina,4,Advised for a risk assessment,189.0
+T377,Medium,Massachusetts,Data Leak,Insider Threat,2021-04-08 04:04:00,2021-09-09 19:53:00,Charlotte,5,Resolved,155.0
+T378,Low,Florida,Cyber Consultation,Application Offboarding,2021-04-08 11:42:00,2021-07-09 15:11:00,Michael,3,Resolved,93.0
+T379,High,California,Cyber Consultation,Database Security,2021-04-08 13:05:00,2021-08-13 18:47:00,Sean,5,Advised for a risk assessment,128.0
+T38,Low,Georgia,Data Leak,Insider Threat,2021-01-27 16:21:00,2021-03-06 19:36:00,Allan,5,Resolved,39.0
+T380,Medium,California,Data Leak,Insider Threat,2021-04-08 14:41:00,2021-08-26 21:48:00,Michael,5,Resolved,141.0
+T381,Medium,New York,Data Privacy,PCI-DSS,2021-04-08 14:44:00,2021-05-08 18:25:00,Sean,3,Recommended Threat Assessment,31.0
+T382,Medium,Alabama,Data Privacy,PCI-DSS,2021-04-08 14:50:00,2021-08-19 22:47:00,Sean,4,Advised for a risk assessment,134.0
+T383,Medium,New York,Data Leak,Insider Threat,2021-04-08 15:00:00,2021-08-23 19:30:00,Veronica,3,Resolved,138.0
+T384,High,Florida,Data Leak,Phishing,2021-04-08 19:13:00,2021-05-08 17:16:00,Charles,5,Advised for a risk assessment,30.0
+T385,High,Colorado,Cyber Security Breach,Malware Attack,2021-04-08 19:34:00,2021-08-17 18:44:00,Martina,4,Resolved,131.0
+T386,Low,Idaho,Data Privacy,PCI-DSS,2021-04-08 22:54:00,2021-08-22 19:09:00,Bob,5,Resolved,136.0
+T387,Low,New Jersey,Data Privacy,HIPAA,2021-05-08 18:19:00,2021-10-08 13:07:00,Cinderalla,3,Recommended Threat Assessment,153.0
+T388,High,Michigan,Data Leak,Insider Threat,2021-05-08 18:58:00,2021-08-13 12:56:00,Robbin,4,Advised for a risk assessment,97.0
+T389,Low,District of Columbia,Data Privacy,HIPAA,2021-05-08 19:24:00,2021-05-08 22:13:00,Veronica,4,Resolved,1.0
+T39,Medium,California,Data Privacy,Privacy Assessment,2021-01-27 17:44:00,2021-03-06 19:26:00,Martina,2,Recommended Threat Assessment,39.0
+T390,High,Maryland,Cyber Security Breach,Malware Attack,2021-06-08 10:04:00,2021-10-08 17:45:00,Charles,5,Resolved,123.0
+T391,High,Illinois,Cyber Consultation,BCP/DR,2021-06-08 11:34:00,2021-09-08 18:46:00,Cinderalla,4,Resolved,93.0
+T392,High,Georgia,Cyber Consultation,Secure Development,2021-06-08 13:02:00,2021-08-13 12:44:00,Charles,2,Resolved,66.0
+T393,Low,Texas,Cyber Consultation,Secure Development,2021-06-08 13:09:00,2021-06-08 13:17:00,Veronica,3,Resolved,1.0
+T394,Low,California,Data Privacy,GDPR,2021-06-08 13:23:00,2021-06-08 13:26:00,Veronica,5,Advised for a risk assessment,1.0
+T395,High,New York,Cyber Security Breach,Firewall,2021-06-08 15:03:00,2021-09-22 10:09:00,Sebastian,4,Advised for a risk assessment,106.0
+T396,Low,Nevada,Data Leak,Vishing,2021-06-08 21:42:00,2021-10-18 11:47:00,Cinderalla,4,Resolved,132.0
+T397,High,Maryland,Data Leak,Insider Threat,2021-09-08 17:33:00,2021-11-08 08:48:00,Allan,4,Resolved,61.0
+T398,High,Washington,Data Privacy,HIPAA,2021-09-08 22:14:00,2021-08-23 17:25:00,Cinderalla,5,Resolved,17.0
+T399,High,Illinois,Cyber Consultation,BCP/DR,2021-10-08 14:27:00,2021-11-08 12:43:00,Cinderalla,3,Recommended Threat Assessment,31.0
+T40,Low,Washington,Cyber Consultation,Secure Development,2021-01-27 21:00:00,2021-01-27 21:20:00,Martina,5,Recommended Threat Assessment,1.0
+T400,High,Texas,Cyber Security Breach,Trojan Attack,2021-10-08 19:42:00,2021-08-18 09:54:00,Cinderalla,5,Advised for a risk assessment,52.0
+T401,High,West Virginia,Cyber Consultation,Encryption,2021-10-08 23:16:00,2021-08-13 19:02:00,Charles,5,Advised for a risk assessment,57.0
+T402,Low,Ohio,Data Privacy,Privacy Assessment,2021-11-08 19:22:00,2021-08-17 17:19:00,Charles,3,Resolved,84.0
+T403,Low,Indiana,Data Privacy,Privacy Assessment,2021-12-08 14:22:00,2021-08-16 22:01:00,Cinderalla,5,Advised for a risk assessment,114.0
+T404,Medium,Georgia,Data Privacy,Privacy Assessment,2021-12-08 15:16:00,2021-09-16 14:45:00,Robbin,5,Advised for a risk assessment,84.0
+T405,High,Delaware,Cyber Security Breach,Trojan Attack,2021-08-13 13:35:00,2021-08-17 20:54:00,Sylviya,5,Recommended Threat Assessment,5.0
+T406,Low,California,Data Privacy,PCI-DSS,2021-08-13 14:39:00,2021-08-25 17:25:00,Sebastian,4,Recommended Threat Assessment,13.0
+T407,Medium,Georgia,Data Privacy,HIPAA,2021-08-13 17:30:00,2021-08-16 23:06:00,Martina,2,Resolved,4.0
+T408,Low,Virginia,Data Leak,Phishing,2021-08-14 00:01:00,2021-07-09 18:27:00,Robbin,5,Advised for a risk assessment,36.0
+T409,High,Washington,Data Privacy,PCI-DSS,2021-08-14 01:33:00,2021-08-20 18:47:00,Veronica,5,Recommended Threat Assessment,7.0
+T41,Medium,Tennessee,Cyber Consultation,BCP/DR,2021-01-28 20:30:00,2021-06-15 11:00:00,Martina,5,Advised for a risk assessment,138.0
+T410,Low,California,Data Privacy,Privacy Assessment,2021-08-16 13:33:00,2021-08-23 19:23:00,Veronica,5,Resolved,8.0
+T411,High,Georgia,Data Privacy,GDPR,2021-08-16 15:02:00,2021-08-19 14:15:00,Aleena,4,Resolved,3.0
+T412,Medium,North Carolina,Cyber Consultation,Access Management,2021-08-16 15:37:00,2021-08-16 15:39:00,Charles,5,Resolved,1.0
+T413,High,Illinois,Data Privacy,GDPR,2021-08-16 16:22:00,2021-08-25 17:43:00,Veronica,3,Advised for a risk assessment,10.0
+T414,High,Kansas,Cyber Consultation,BCP/DR,2021-08-16 19:51:00,2021-08-20 18:18:00,Martina,5,Advised for a risk assessment,4.0
+T415,High,Texas,Cyber Security Breach,Malware Attack,2021-08-17 14:23:00,2021-09-16 09:41:00,Charles,5,Resolved,30.0
+T416,Low,Georgia,Security Gap,Unauthorized access,2021-08-17 18:55:00,2021-08-19 16:27:00,Charles,2,Recommended Threat Assessment,2.0
+T417,High,Florida,Cyber Consultation,BCP/DR,2021-08-17 18:58:00,2021-08-23 10:08:00,Sylviya,2,Advised for a risk assessment,6.0
+T418,High,Maryland,Data Privacy,HIPAA,2021-08-17 20:29:00,2021-08-17 20:38:00,Veronica,2,Resolved,1.0
+T419,Low,New York,Data Privacy,Privacy Assessment,2021-08-17 20:42:00,2021-08-17 20:47:00,Veronica,5,Recommended Threat Assessment,1.0
+T42,Medium,Connecticut,Security Gap,Obsolete Software,2021-01-31 09:37:00,2021-01-31 09:40:00,Allan,3,Resolved,1.0
+T420,Low,Illinois,Data Leak,Insider Threat,2021-08-17 22:37:00,2021-08-17 22:40:00,Allan,3,Resolved,1.0
+T421,Low,California,Cyber Consultation,Segregation of Duties,2021-08-17 22:42:00,2021-08-17 22:44:00,Allan,5,Resolved,1.0
+T422,Low,Florida,Data Privacy,HIPAA,2021-08-17 22:46:00,2021-08-17 22:48:00,Allan,5,Resolved,1.0
+T423,Low,California,Cyber Consultation,Secure Development,2021-08-17 22:50:00,2021-08-17 23:00:00,Allan,5,Advised for a risk assessment,1.0
+T424,High,California,Data Leak,Insider Threat,2021-08-18 00:57:00,2021-08-27 02:17:00,Martina,4,Resolved,10.0
+T425,High,Texas,Cyber Security Breach,Malware Attack,2021-08-18 14:49:00,2021-08-24 22:47:00,Charles,4,Resolved,7.0
+T426,Low,California,Security Gap,Unauthorized access,2021-08-18 16:23:00,2021-08-18 16:23:00,Veronica,4,Recommended Threat Assessment,0.0
+T427,High,Utah,Data Privacy,HIPAA,2021-08-18 16:27:00,2021-08-19 14:19:00,Aleena,4,Resolved,1.0
+T428,Low,Florida,Data Privacy,HIPAA,2021-08-18 17:38:00,2021-08-26 17:26:00,Cinderalla,5,Resolved,8.0
+T429,Low,Texas,Data Privacy,Privacy Assessment,2021-08-18 19:07:00,2021-08-31 16:51:00,Veronica,4,Resolved,13.0
+T43,Low,California,Cyber Consultation,New Application Launch,2021-01-31 09:46:00,2021-01-31 09:51:00,Allan,2,Recommended Threat Assessment,1.0
+T430,High,Missouri,Data Leak,Phishing,2021-08-18 20:51:00,2021-01-09 19:57:00,Bob,5,Resolved,222.0
+T431,Low,Maine,Security Gap,Unauthorized software,2021-08-19 00:50:00,2021-08-27 11:43:00,Cinderalla,5,Advised for a risk assessment,9.0
+T432,Low,Texas,Data Privacy,HIPAA,2021-08-19 20:34:00,2021-08-26 15:43:00,Charles,5,Recommended Threat Assessment,7.0
+T433,Medium,Texas,Data Privacy,PCI-DSS,2021-08-19 22:53:00,2021-08-26 20:56:00,Sean,5,Advised for a risk assessment,7.0
+T434,High,Illinois,Data Privacy,HIPAA,2021-08-20 15:58:00,2021-08-23 09:44:00,Charles,5,Advised for a risk assessment,3.0
+T435,Low,Florida,Data Leak,Insider Threat,2021-08-21 01:55:00,2021-08-27 19:24:00,Sean,5,Resolved,7.0
+T436,Low,North Carolina,Data Privacy,HIPAA,2021-08-22 22:30:00,2021-08-22 22:34:00,Bob,2,Resolved,1.0
+T437,High,Virginia,Cyber Security Breach,Trojan Attack,2021-08-22 22:42:00,2021-08-27 14:10:00,Bob,4,Resolved,5.0
+T438,Low,California,Data Privacy,GDPR,2021-08-23 09:27:00,2021-09-16 14:36:00,Robbin,5,Resolved,25.0
+T439,Low,Virginia,Data Leak,Insider Threat,2021-08-24 13:11:00,2021-12-24 09:58:00,Veronica,5,Resolved,122.0
+T44,Medium,Wisconsin,Data Privacy,Privacy Assessment,2021-01-31 09:46:00,2021-03-06 19:56:00,Allan,3,Resolved,35.0
+T440,High,Texas,Data Privacy,GDPR,2021-08-24 17:23:00,2021-08-24 19:17:00,Robbin,5,Advised for a risk assessment,1.0
+T441,Low,New York,Data Privacy,PCI-DSS,2021-08-24 19:46:00,2021-08-26 11:10:00,Charles,4,Recommended Threat Assessment,2.0
+T442,Low,Oregon,Cyber Consultation,Secure Development,2021-08-24 23:44:00,2021-03-09 18:28:00,Martina,4,Resolved,169.0
+T443,Low,Washington,Cyber Consultation,New Application Launch,2021-08-25 14:27:00,2021-03-09 18:30:00,Sylviya,5,Resolved,169.0
+T444,High,Illinois,Cyber Security Breach,Firewall,2021-08-25 18:23:00,2021-03-09 17:37:00,Sylviya,4,Recommended Threat Assessment,170.0
+T445,Low,Washington,Cyber Consultation,New Application Launch,2021-08-25 22:13:00,2021-08-26 21:33:00,Martina,5,Recommended Threat Assessment,1.0
+T446,High,Florida,Cyber Consultation,BCP/DR,2021-08-25 23:35:00,2021-08-26 10:14:00,Cinderalla,3,Recommended Threat Assessment,1.0
+T447,High,Texas,Security Gap,Obsolete Software,2021-08-26 21:15:00,2021-02-09 21:03:00,Martina,4,Advised for a risk assessment,199.0
+T448,Low,Nevada,Cyber Consultation,Access Management,2021-08-27 12:30:00,2021-06-09 11:00:00,Charles,5,Resolved,80.0
+T449,Medium,New York,Data Privacy,GDPR,2021-08-27 14:53:00,2021-01-09 15:55:00,Charles,5,Advised for a risk assessment,230.0
+T45,High,Connecticut,Cyber Consultation,Segregation of Duties,2021-01-31 09:46:00,2021-01-31 09:57:00,Allan,5,Resolved,1.0
+T450,Medium,Massachusetts,Cyber Consultation,Database Security,2021-08-27 19:17:00,2021-12-21 11:59:00,Veronica,5,Advised for a risk assessment,116.0
+T451,High,Florida,Data Privacy,PCI-DSS,2021-08-27 19:48:00,2021-09-13 09:41:00,Bob,5,Resolved,17.0
+T452,Low,Oklahoma,Data Leak,Vishing,2021-08-28 01:07:00,2021-03-09 19:46:00,Charles,4,Resolved,172.0
+T453,Medium,California,Data Leak,Phishing,2021-08-30 20:45:00,2021-09-17 11:25:00,Robbin,3,Resolved,18.0
+T454,Low,California,Cyber Consultation,New Application Launch,2021-08-30 22:28:00,2021-02-09 17:51:00,Charles,2,Advised for a risk assessment,203.0
+T455,High,Texas,Cyber Security Breach,Firewall,2021-08-31 17:36:00,2021-01-10 18:03:00,Sylviya,3,Recommended Threat Assessment,233.0
+T456,High,Utah,Cyber Security Breach,Trojan Attack,2021-08-31 19:13:00,2021-10-21 15:31:00,Veronica,3,Recommended Threat Assessment,51.0
+T457,High,Florida,Cyber Consultation,Database Security,2021-01-09 19:08:00,2021-08-09 21:13:00,Martina,3,Advised for a risk assessment,213.0
+T458,High,Florida,Cyber Security Breach,Trojan Attack,2021-02-09 11:45:00,2021-02-09 11:48:00,Charles,3,Resolved,1.0
+T459,High,Montana,Cyber Consultation,Third Party Engagement,2021-02-09 13:40:00,2021-02-09 14:05:00,Cinderalla,5,Resolved,1.0
+T46,Medium,Illinois,Cyber Consultation,Third Party Engagement,2021-01-31 10:04:00,2021-06-07 09:35:00,Allan,2,Resolved,127.0
+T460,Medium,Virginia,Security Gap,Password non-expiry,2021-03-09 02:59:00,2021-09-21 20:09:00,Robbin,5,Resolved,197.0
+T461,Medium,Pennsylvania,Security Gap,Unauthorized access,2021-06-09 13:03:00,2021-09-13 17:26:00,Bob,5,Resolved,97.0
+T462,High,California,Data Leak,Insider Threat,2021-08-09 18:35:00,2021-09-22 12:04:00,Michael,5,Advised for a risk assessment,44.0
+T463,High,California,Cyber Consultation,Secure Development,2021-08-09 22:24:00,2021-09-15 20:31:00,Charlotte,2,Resolved,37.0
+T464,Low,Massachusetts,Data Privacy,Privacy Assessment,2021-09-09 14:59:00,2021-09-22 10:25:00,Sylviya,3,Resolved,13.0
+T465,High,Minnesota,Cyber Security Breach,Firewall,2021-09-09 21:24:00,2021-09-15 21:31:00,Martina,4,Advised for a risk assessment,7.0
+T466,High,Virginia,Data Privacy,GDPR,2021-10-09 02:36:00,2021-10-09 10:34:00,Sylviya,5,Resolved,1.0
+T467,Medium,Colorado,Cyber Consultation,Access Management,2021-10-09 20:58:00,2021-09-23 18:57:00,Martina,4,Advised for a risk assessment,17.0
+T468,Low,Arizona,Cyber Consultation,BCP/DR,2021-09-14 01:10:00,2021-09-21 12:18:00,Charles,3,Resolved,8.0
+T469,Low,Wisconsin,Data Leak,Phishing,2021-09-14 02:23:00,2021-09-20 18:33:00,Martina,5,Resolved,7.0
+T47,Low,California,Cyber Consultation,BCP/DR,2021-01-31 11:13:00,2021-01-31 11:38:00,Allan,3,Resolved,1.0
+T470,High,California,Cyber Consultation,Access Management,2021-09-14 12:29:00,2021-09-22 19:21:00,Charles,4,Advised for a risk assessment,9.0
+T471,High,Tennessee,Data Leak,Phishing,2021-09-14 17:25:00,2021-07-10 09:17:00,Cinderalla,3,Recommended Threat Assessment,67.0
+T472,High,Virginia,Cyber Security Breach,Trojan Attack,2021-09-15 02:59:00,2022-08-02 20:37:00,Veronica,5,Advised for a risk assessment,322.0
+T473,High,California,Data Privacy,Privacy Assessment,2021-09-15 11:16:00,2021-01-10 10:15:00,Sylviya,5,Resolved,249.0
+T474,High,California,Cyber Security Breach,Spyware,2021-09-15 13:21:00,2021-09-23 10:28:00,Allan,5,Resolved,8.0
+T475,High,Virginia,Data Leak,Insider Threat,2021-09-15 17:57:00,2021-09-29 18:47:00,Martina,5,Resolved,15.0
+T476,Medium,California,Cyber Consultation,Application Offboarding,2021-09-15 18:40:00,2021-09-23 10:17:00,Bob,5,Advised for a risk assessment,8.0
+T477,High,California,Cyber Consultation,New Application Launch,2021-09-15 21:28:00,2021-09-21 20:10:00,Robbin,2,Advised for a risk assessment,6.0
+T478,Medium,North Carolina,Data Privacy,GDPR,2021-09-16 12:51:00,2021-09-16 17:55:00,Cinderalla,2,Resolved,1.0
+T479,Low,California,Cyber Consultation,BCP/DR,2021-09-16 22:10:00,2021-09-16 22:10:00,Veronica,2,Recommended Threat Assessment,0.0
+T48,High,Florida,Cyber Security Breach,Malware Attack,2021-01-31 15:53:00,2021-04-06 12:27:00,Martina,5,Recommended Threat Assessment,65.0
+T480,Low,Utah,Data Privacy,HIPAA,2021-09-17 09:59:00,2021-10-20 14:47:00,Robbin,2,Recommended Threat Assessment,34.0
+T481,High,Texas,Cyber Security Breach,Firewall,2021-09-17 13:24:00,2021-09-17 13:24:00,Veronica,5,Resolved,0.0
+T482,High,Illinois,Cyber Consultation,BCP/DR,2021-09-17 21:45:00,2021-09-23 10:19:00,Bob,2,Resolved,6.0
+T483,High,California,Data Leak,Insider Threat,2021-09-17 21:50:00,2021-09-23 18:47:00,Veronica,5,Recommended Threat Assessment,6.0
+T484,Low,Utah,Cyber Consultation,Network Security,2021-09-20 14:11:00,2021-09-22 16:12:00,Robbin,2,Advised for a risk assessment,3.0
+T485,Medium,Missouri,Data Privacy,Privacy Assessment,2021-09-20 15:45:00,2022-01-02 12:40:00,Sebastian,5,Recommended Threat Assessment,104.0
+T486,Low,Massachusetts,Data Leak,Insider Threat,2021-09-21 07:24:00,2021-06-10 16:21:00,Bob,5,Advised for a risk assessment,103.0
+T487,Low,Ohio,Data Privacy,GDPR,2021-09-21 10:42:00,2021-10-25 13:07:00,Allan,4,Resolved,35.0
+T488,High,New York,Cyber Security Breach,Firewall,2021-09-21 21:05:00,2021-10-25 20:26:00,Sebastian,2,Resolved,34.0
+T489,High,Missouri,Data Leak,Phishing,2021-09-22 11:48:00,2021-09-30 13:01:00,Robbin,4,Resolved,9.0
+T49,High,California,Data Privacy,GDPR,2021-03-02 22:09:00,2021-10-02 18:32:00,Martina,4,Resolved,214.0
+T490,Medium,Texas,Data Leak,Insider Threat,2021-09-22 12:12:00,2021-12-22 23:49:00,Aleena,2,Recommended Threat Assessment,92.0
+T491,Low,California,Security Gap,Password non-expiry,2021-09-22 14:35:00,2021-09-28 11:21:00,Cinderalla,5,Recommended Threat Assessment,6.0
+T492,Low,New York,Cyber Consultation,New Application Launch,2021-09-23 14:09:00,2021-10-14 17:03:00,Allan,5,Recommended Threat Assessment,22.0
+T493,High,Oklahoma,Cyber Consultation,New Application Launch,2021-09-23 18:45:00,2021-09-25 00:02:00,Martina,2,Resolved,2.0
+T494,Low,Iowa,Data Privacy,Privacy Assessment,2021-09-23 21:01:00,2021-01-11 17:32:00,Martina,5,Resolved,256.0
+T495,Low,District of Columbia,Data Privacy,HIPAA,2021-09-23 22:31:00,2021-09-28 15:47:00,Sebastian,5,Resolved,5.0
+T496,Low,Illinois,Data Privacy,PCI-DSS,2021-09-23 23:16:00,2021-09-30 19:19:00,Charles,2,Recommended Threat Assessment,7.0
+T497,High,Arizona,Security Gap,Unauthorized access,2021-09-24 20:21:00,2021-09-24 20:27:00,Veronica,5,Resolved,1.0
+T498,High,New York,Cyber Security Breach,Malware Attack,2021-09-27 11:29:00,2021-01-10 17:44:00,Kareema,3,Resolved,260.0
+T499,High,Virginia,Security Gap,Unauthorized software,2021-09-28 12:01:00,2021-01-10 08:13:00,Cinderalla,5,Recommended Threat Assessment,262.0
+T50,High,Arizona,Cyber Security Breach,Malware Attack,2021-04-02 10:26:00,2021-04-02 11:47:00,Allan,2,Resolved,1.0
+T500,Low,California,Security Gap,Obsolete Software,2021-09-28 18:44:00,2021-01-10 11:17:00,Charles,3,Advised for a risk assessment,262.0
+T501,Low,Utah,Data Leak,Vishing,2021-09-28 19:17:00,2021-09-29 16:25:00,Cinderalla,5,Recommended Threat Assessment,1.0
+T502,High,Delaware,Data Leak,Phishing,2021-09-29 11:51:00,2022-12-01 21:48:00,Martina,4,Resolved,429.0
+T503,High,Texas,Data Leak,Insider Threat,2021-09-29 12:51:00,2022-03-03 16:50:00,Cinderalla,3,Resolved,156.0
+T504,High,New York,Cyber Consultation,BCP/DR,2021-09-29 17:55:00,2021-10-25 16:07:00,Veronica,5,Advised for a risk assessment,26.0
+T505,Low,California,Cyber Consultation,BCP/DR,2021-09-29 19:47:00,2021-01-10 17:00:00,Charles,5,Recommended Threat Assessment,263.0
+T506,Medium,Georgia,Cyber Consultation,Access Management,2021-09-29 20:50:00,2021-07-10 21:59:00,Martina,5,Resolved,81.0
+T507,High,Texas,Data Privacy,HIPAA,2021-09-30 20:29:00,2021-09-30 20:31:00,Allan,2,Recommended Threat Assessment,1.0
+T508,Low,Arizona,Cyber Consultation,Encryption,2021-09-30 20:36:00,2021-09-30 20:40:00,Allan,5,Recommended Threat Assessment,1.0
+T509,Low,New Jersey,Security Gap,Unauthorized access,2021-09-30 20:43:00,2021-09-30 20:44:00,Allan,5,Advised for a risk assessment,1.0
+T51,High,Utah,Data Privacy,HIPAA,2021-06-02 23:44:00,2021-10-02 17:53:00,Martina,4,Recommended Threat Assessment,122.0
+T510,Medium,New Jersey,Security Gap,Unauthorized software,2021-09-30 20:49:00,2021-09-30 20:51:00,Allan,4,Advised for a risk assessment,1.0
+T511,Low,California,Cyber Consultation,Application Offboarding,2021-09-30 20:54:00,2021-09-30 20:56:00,Allan,3,Resolved,1.0
+T512,High,Indiana,Cyber Security Breach,Malware Attack,2021-09-30 20:58:00,2021-09-30 21:11:00,Allan,2,Resolved,1.0
+T513,High,New Jersey,Data Leak,Phishing,2021-09-30 21:14:00,2021-09-30 21:18:00,Allan,5,Advised for a risk assessment,1.0
+T514,High,Pennsylvania,Data Leak,Insider Threat,2021-01-10 15:47:00,2021-08-10 09:32:00,Charles,5,Resolved,212.0
+T515,Low,Kansas,Data Leak,Phishing,2021-01-10 19:27:00,2022-03-17 22:08:00,Veronica,5,Resolved,432.0
+T516,Low,New York,Data Privacy,Privacy Assessment,2021-04-10 16:46:00,2021-04-10 20:36:00,Sebastian,2,Recommended Threat Assessment,1.0
+T517,Low,Virginia,Data Privacy,Privacy Assessment,2021-05-10 18:19:00,2021-05-10 18:23:00,Veronica,5,Resolved,1.0
+T518,High,California,Data Privacy,HIPAA,2021-05-10 23:22:00,2021-10-25 16:38:00,Martina,4,Resolved,168.0
+T519,High,Pennsylvania,Cyber Security Breach,Firewall,2021-06-10 01:22:00,2021-10-26 14:09:00,Charles,2,Advised for a risk assessment,139.0
+T52,High,Missouri,Data Privacy,GDPR,2021-06-02 23:44:00,2021-10-02 17:53:00,Martina,5,Advised for a risk assessment,122.0
+T520,Low,California,Data Privacy,HIPAA,2021-06-10 02:23:00,2021-06-10 11:39:00,Cinderalla,5,Resolved,1.0
+T521,Low,Colorado,Data Leak,Vishing,2021-06-10 18:36:00,2021-08-10 11:59:00,Sean,5,Recommended Threat Assessment,61.0
+T522,Medium,Arizona,Data Leak,Insider Threat,2021-07-10 19:27:00,2021-10-19 19:36:00,Cinderalla,4,Resolved,102.0
+T523,Medium,California,Data Leak,Phishing,2021-07-10 23:39:00,2021-10-13 20:31:00,Martina,3,Resolved,95.0
+T524,High,Colorado,Security Gap,Password non-expiry,2021-11-10 21:12:00,2021-10-25 17:25:00,Martina,4,Recommended Threat Assessment,17.0
+T525,High,Texas,Cyber Security Breach,Firewall,2021-12-10 18:58:00,2021-11-19 11:08:00,Robbin,5,Resolved,22.0
+T526,High,Colorado,Security Gap,Unauthorized access,2021-10-13 06:08:00,2021-10-13 10:00:00,Veronica,4,Resolved,1.0
+T527,High,Maryland,Cyber Security Breach,Firewall,2021-10-13 18:12:00,2021-10-13 18:56:00,Sean,3,Advised for a risk assessment,1.0
+T528,Low,New York,Data Privacy,Privacy Assessment,2021-10-13 20:06:00,2021-01-11 22:11:00,Martina,5,Resolved,275.0
+T529,High,Virginia,Data Privacy,GDPR,2021-10-14 15:06:00,2022-02-28 15:32:00,Veronica,5,Resolved,138.0
+T53,Medium,California,Security Gap,Obsolete Software,2021-07-02 14:38:00,2021-03-09 17:36:00,Kareema,3,Resolved,115.0
+T530,Low,Arizona,Security Gap,Password non-expiry,2021-10-14 19:27:00,2021-10-27 20:11:00,Martina,3,Advised for a risk assessment,14.0
+T531,Low,Iowa,Cyber Consultation,New Application Launch,2021-10-14 21:36:00,2021-10-22 17:29:00,Sylviya,2,Advised for a risk assessment,8.0
+T532,High,Georgia,Cyber Consultation,Application Offboarding,2021-10-15 22:01:00,2021-10-26 14:13:00,Charles,5,Advised for a risk assessment,11.0
+T533,High,Michigan,Cyber Security Breach,Firewall,2021-10-18 18:36:00,2021-10-26 20:39:00,Sean,4,Resolved,9.0
+T534,Low,Colorado,Data Privacy,HIPAA,2021-10-18 19:02:00,2021-10-21 18:01:00,Martina,4,Resolved,3.0
+T535,High,Texas,Data Privacy,GDPR,2021-10-18 23:45:00,2021-10-26 14:16:00,Charles,2,Recommended Threat Assessment,8.0
+T536,High,Indiana,Cyber Consultation,Application Offboarding,2021-10-19 22:14:00,2021-10-19 23:05:00,Martina,4,Resolved,1.0
+T537,Medium,Texas,Data Leak,Insider Threat,2021-10-19 23:28:00,2021-10-25 18:03:00,Aleena,5,Resolved,6.0
+T538,Low,New York,Data Leak,Vishing,2021-10-20 17:39:00,2021-10-22 15:37:00,Veronica,5,Recommended Threat Assessment,2.0
+T539,Medium,California,Data Privacy,Privacy Assessment,2021-10-20 19:32:00,2021-10-21 16:28:00,Martina,4,Resolved,1.0
+T54,High,Michigan,Data Leak,Insider Threat,2021-07-02 20:22:00,2021-11-02 17:45:00,Veronica,4,Resolved,123.0
+T540,High,Alabama,Cyber Security Breach,Spyware,2021-10-22 20:24:00,2021-10-25 20:00:00,Martina,4,Advised for a risk assessment,3.0
+T541,Medium,South Carolina,Cyber Consultation,New Application Launch,2021-10-22 20:38:00,2021-10-25 18:14:00,Martina,2,Resolved,3.0
+T542,Medium,Massachusetts,Cyber Consultation,Network Security,2021-10-25 10:59:00,2021-10-25 11:13:00,Veronica,4,Recommended Threat Assessment,1.0
+T543,Medium,Tennessee,Data Leak,Phishing,2021-10-26 12:40:00,2021-03-11 19:00:00,Benny,5,Resolved,229.0
+T544,High,Florida,Data Leak,Insider Threat,2021-10-26 13:28:00,2021-10-26 15:21:00,Veronica,5,Advised for a risk assessment,1.0
+T545,High,Missouri,Data Leak,Insider Threat,2021-10-26 18:16:00,2021-10-11 19:04:00,Robbin,5,Advised for a risk assessment,15.0
+T546,Low,Virginia,Data Privacy,PCI-DSS,2021-10-27 11:38:00,2021-10-11 11:18:00,Veronica,5,Advised for a risk assessment,17.0
+T547,High,Texas,Cyber Security Breach,Malware Attack,2021-10-27 17:17:00,2021-05-11 12:27:00,Robbin,5,Resolved,170.0
+T548,High,Ohio,Data Leak,Phishing,2021-10-28 03:12:00,2021-05-11 17:39:00,Sean,2,Resolved,170.0
+T549,High,Michigan,Data Privacy,PCI-DSS,2021-10-28 19:24:00,2021-08-11 16:56:00,Charlotte,4,Recommended Threat Assessment,79.0
+T55,Medium,Oregon,Data Privacy,GDPR,2021-11-02 12:15:00,2021-02-13 22:08:00,Charlotte,5,Resolved,262.0
+T550,High,New York,Data Privacy,Privacy Assessment,2021-10-28 20:24:00,2021-10-28 20:26:00,Veronica,3,Advised for a risk assessment,1.0
+T551,High,California,Data Leak,Insider Threat,2021-10-29 16:12:00,2021-03-11 12:06:00,Charles,2,Resolved,233.0
+T552,Medium,Wisconsin,Data Leak,Vishing,2021-01-11 13:15:00,2021-05-11 12:29:00,Robbin,4,Recommended Threat Assessment,120.0
+T553,High,Massachusetts,Data Leak,Insider Threat,2021-02-11 01:41:00,2021-12-21 18:52:00,Martina,2,Resolved,314.0
+T554,Low,Florida,Data Privacy,HIPAA,2021-02-11 02:51:00,2021-09-11 14:37:00,Michael,5,Recommended Threat Assessment,213.0
+T555,High,Florida,Cyber Consultation,Secure Development,2021-02-11 10:45:00,2021-11-11 11:45:00,Sean,4,Advised for a risk assessment,274.0
+T556,High,California,Data Privacy,GDPR,2021-02-11 21:36:00,2021-02-11 21:37:00,Sylviya,2,Advised for a risk assessment,1.0
+T557,High,New Jersey,Security Gap,Unauthorized access,2021-03-11 18:48:00,2021-11-26 16:38:00,Allan,5,Resolved,260.0
+T558,Low,New York,Cyber Consultation,Third Party Engagement,2021-05-11 23:05:00,2021-11-18 22:52:00,Martina,5,Advised for a risk assessment,191.0
+T559,High,Massachusetts,Data Privacy,GDPR,2021-08-11 19:59:00,2021-11-22 11:36:00,Bob,4,Recommended Threat Assessment,103.0
+T56,Medium,Colorado,Cyber Consultation,Segregation of Duties,2021-11-02 18:15:00,2021-02-13 11:10:00,Benny,4,Advised for a risk assessment,263.0
+T560,High,California,Data Privacy,PCI-DSS,2021-09-11 00:13:00,2021-12-11 17:47:00,Martina,5,Resolved,92.0
+T561,Medium,Missouri,Cyber Consultation,Database Security,2021-09-11 01:12:00,2021-11-17 20:13:00,Sean,2,Advised for a risk assessment,68.0
+T562,Medium,California,Data Privacy,GDPR,2021-09-11 18:17:00,2021-11-29 11:01:00,Kareema,5,Advised for a risk assessment,79.0
+T563,High,California,Data Leak,Insider Threat,2021-09-11 19:19:00,2021-12-21 18:56:00,Martina,2,Recommended Threat Assessment,101.0
+T564,High,Arizona,Cyber Security Breach,Malware Attack,2021-10-11 18:51:00,2021-10-11 18:54:00,Robbin,5,Recommended Threat Assessment,1.0
+T565,Medium,Oregon,Data Leak,Insider Threat,2021-11-11 04:19:00,2021-11-11 17:31:00,Sylviya,5,Resolved,1.0
+T566,High,North Carolina,Cyber Security Breach,Firewall,2021-11-15 19:15:00,2021-11-15 19:27:00,Martina,5,Recommended Threat Assessment,1.0
+T567,High,Maryland,Data Leak,Insider Threat,2021-11-16 17:14:00,2021-03-12 16:52:00,Michael,5,Resolved,250.0
+T568,Low,Florida,Cyber Consultation,New Application Launch,2021-11-16 20:20:00,2021-11-25 10:30:00,Cinderalla,3,Advised for a risk assessment,9.0
+T569,High,Indiana,Cyber Security Breach,Spyware,2021-11-17 02:08:00,2021-11-18 22:53:00,Martina,4,Resolved,2.0
+T57,Medium,District of Columbia,Cyber Consultation,Segregation of Duties,2021-11-02 23:36:00,2021-02-17 21:45:00,Martina,4,Recommended Threat Assessment,259.0
+T570,High,Georgia,Data Privacy,Privacy Assessment,2021-11-17 18:04:00,2021-11-19 09:47:00,Charles,2,Resolved,2.0
+T571,Medium,Kansas,Data Privacy,HIPAA,2021-11-17 19:16:00,2021-11-25 14:18:00,Sylviya,5,Advised for a risk assessment,8.0
+T572,Low,Ohio,Data Privacy,PCI-DSS,2021-11-18 11:19:00,2021-11-18 11:21:00,Robbin,4,Resolved,1.0
+T573,Low,California,Data Leak,Vishing,2021-11-18 11:23:00,2022-06-01 17:54:00,Robbin,4,Resolved,196.0
+T574,Low,Illinois,Cyber Consultation,BCP/DR,2021-11-18 14:30:00,2021-11-25 18:30:00,Charles,2,Advised for a risk assessment,8.0
+T575,Low,Texas,Cyber Consultation,New Application Launch,2021-11-18 15:07:00,2021-11-25 16:27:00,Bob,5,Recommended Threat Assessment,8.0
+T576,Low,Colorado,Security Gap,Obsolete Software,2021-11-19 11:22:00,2021-11-19 11:24:00,Charles,3,Resolved,1.0
+T577,High,Virginia,Data Leak,Insider Threat,2021-11-19 11:27:00,2021-11-19 11:29:00,Charles,5,Resolved,1.0
+T578,Medium,Ohio,Data Privacy,Privacy Assessment,2021-11-19 11:33:00,2021-11-19 11:34:00,Charles,5,Resolved,1.0
+T579,Medium,New Jersey,Data Leak,Insider Threat,2021-11-19 11:37:00,2021-11-19 11:38:00,Charles,3,Resolved,1.0
+T58,High,Mississippi,Security Gap,Unauthorized access,2021-12-02 17:45:00,2021-02-13 11:45:00,Kareema,5,Advised for a risk assessment,293.0
+T580,High,Pennsylvania,Data Privacy,Privacy Assessment,2021-11-22 13:39:00,2021-12-15 11:02:00,Sebastian,5,Advised for a risk assessment,23.0
+T581,High,Utah,Cyber Security Breach,Trojan Attack,2021-11-22 15:18:00,2021-11-23 11:24:00,Charlotte,3,Advised for a risk assessment,1.0
+T582,High,Florida,Data Leak,Phishing,2021-11-22 23:08:00,2021-12-21 18:50:00,Martina,4,Advised for a risk assessment,29.0
+T583,High,California,Data Leak,Phishing,2021-11-23 10:16:00,2021-11-23 14:48:00,Veronica,2,Advised for a risk assessment,1.0
+T584,Medium,California,Data Privacy,PCI-DSS,2021-11-23 17:20:00,2021-03-12 10:29:00,Bob,5,Resolved,257.0
+T585,High,Virginia,Cyber Security Breach,Firewall,2021-11-23 21:07:00,2021-11-24 18:02:00,Sylviya,5,Resolved,1.0
+T586,Low,Massachusetts,Data Privacy,GDPR,2021-11-23 22:42:00,2021-11-29 23:41:00,Martina,2,Resolved,7.0
+T587,High,California,Data Privacy,PCI-DSS,2021-11-24 11:23:00,2021-11-24 11:25:00,Robbin,4,Resolved,1.0
+T588,Low,New York,Data Leak,Vishing,2021-11-25 23:54:00,2021-07-12 08:13:00,Cinderalla,5,Advised for a risk assessment,137.0
+T589,High,New York,Cyber Security Breach,Trojan Attack,2021-11-29 12:15:00,2021-11-29 12:18:00,Allan,5,Advised for a risk assessment,1.0
+T59,Low,Illinois,Data Leak,Vishing,2021-02-13 10:30:00,2021-02-13 19:16:00,Benny,5,Resolved,1.0
+T590,High,Florida,Cyber Consultation,Database Security,2021-11-29 12:44:00,2021-11-29 12:48:00,Allan,2,Resolved,1.0
+T591,Medium,California,Data Privacy,PCI-DSS,2021-11-29 12:51:00,2021-11-29 12:53:00,Allan,5,Resolved,1.0
+T592,Low,Illinois,Cyber Consultation,Access Management,2021-11-29 12:56:00,2021-11-29 13:03:00,Allan,4,Recommended Threat Assessment,1.0
+T593,Low,Pennsylvania,Data Leak,Phishing,2021-11-29 13:07:00,2021-11-29 13:10:00,Allan,5,Resolved,1.0
+T594,High,New York,Cyber Security Breach,Firewall,2021-11-29 13:17:00,2021-11-29 13:32:00,Allan,3,Resolved,1.0
+T595,High,Illinois,Cyber Security Breach,Firewall,2021-11-29 16:58:00,2021-02-12 17:47:00,Cinderalla,5,Advised for a risk assessment,290.0
+T596,Low,Michigan,Data Leak,Phishing,2021-11-30 21:03:00,2021-02-12 18:06:00,Cinderalla,4,Recommended Threat Assessment,292.0
+T597,High,California,Cyber Security Breach,Firewall,2021-02-12 09:19:00,2021-09-12 11:52:00,Bob,5,Resolved,213.0
+T598,Low,New York,Data Privacy,Privacy Assessment,2021-02-12 12:46:00,2021-02-12 12:48:00,Robbin,5,Resolved,1.0
+T599,High,Virginia,Data Privacy,HIPAA,2021-02-12 12:49:00,2021-02-12 12:53:00,Robbin,2,Recommended Threat Assessment,1.0
+T60,Low,Massachusetts,Data Privacy,Privacy Assessment,2021-02-14 13:09:00,2021-02-18 17:02:00,Martina,5,Advised for a risk assessment,5.0
+T600,Low,Florida,Data Privacy,PCI-DSS,2021-02-12 20:54:00,2021-03-12 20:00:00,Martina,2,Recommended Threat Assessment,28.0
+T601,Medium,Massachusetts,Cyber Consultation,Application Offboarding,2021-02-12 23:17:00,2021-07-12 18:18:00,Cinderalla,5,Resolved,150.0
+T602,Medium,Georgia,Cyber Consultation,Access Management,2021-03-12 13:06:00,2021-09-12 09:23:00,Cinderalla,5,Resolved,184.0
+T603,Low,Oregon,Security Gap,Unauthorized software,2021-03-12 19:40:00,2021-03-12 21:34:00,Charlotte,5,Advised for a risk assessment,1.0
+T604,High,Illinois,Cyber Security Breach,Firewall,2021-03-12 20:54:00,2021-03-12 21:46:00,Martina,4,Recommended Threat Assessment,1.0
+T605,Low,Michigan,Data Privacy,HIPAA,2021-03-12 23:31:00,2021-04-12 00:41:00,Sylviya,5,Resolved,31.0
+T606,High,Texas,Data Privacy,Privacy Assessment,2021-06-12 09:47:00,2021-12-13 16:51:00,Sebastian,3,Recommended Threat Assessment,185.0
+T607,High,California,Cyber Consultation,Database Security,2021-07-12 01:51:00,2021-12-15 20:11:00,Michael,5,Resolved,157.0
+T608,Low,Washington,Data Privacy,HIPAA,2021-07-12 20:21:00,2022-02-17 23:16:00,Aleena,3,Recommended Threat Assessment,221.0
+T609,Low,Tennessee,Data Privacy,PCI-DSS,2021-08-12 03:23:00,2021-12-15 21:49:00,Sean,5,Resolved,126.0
+T61,Low,Ohio,Data Leak,Phishing,2021-02-17 09:56:00,2021-02-17 09:58:00,Benny,5,Resolved,1.0
+T610,High,Pennsylvania,Data Leak,Insider Threat,2021-08-12 22:17:00,2021-12-13 15:16:00,Bob,5,Resolved,123.0
+T611,High,New York,Security Gap,Unauthorized software,2021-09-12 17:30:00,2021-12-12 10:44:00,Cinderalla,2,Advised for a risk assessment,91.0
+T612,Low,New Jersey,Security Gap,Password non-expiry,2021-09-12 22:46:00,2022-01-13 02:37:00,Martina,5,Recommended Threat Assessment,123.0
+T613,Low,Virginia,Data Privacy,GDPR,2021-10-12 00:14:00,2021-10-12 18:09:00,Martina,5,Advised for a risk assessment,1.0
+T614,High,Colorado,Data Privacy,HIPAA,2021-12-13 16:21:00,2021-12-21 15:11:00,Michael,3,Advised for a risk assessment,8.0
+T615,High,Texas,Cyber Security Breach,Trojan Attack,2021-12-13 16:58:00,2021-12-15 10:58:00,Sebastian,3,Advised for a risk assessment,2.0
+T616,High,Virginia,Data Privacy,GDPR,2021-12-13 17:06:00,2021-12-17 19:21:00,Michael,3,Recommended Threat Assessment,5.0
+T617,Medium,Oregon,Data Leak,Phishing,2021-12-13 17:14:00,2021-12-13 21:00:00,Sebastian,5,Resolved,1.0
+T618,High,Mississippi,Data Leak,Phishing,2021-12-15 15:36:00,2021-12-20 16:42:00,Michael,2,Resolved,6.0
+T619,High,New York,Cyber Consultation,BCP/DR,2021-12-15 20:21:00,2021-12-21 10:19:00,Charles,5,Advised for a risk assessment,6.0
+T62,Low,Florida,Cyber Consultation,Application Offboarding,2021-02-17 16:26:00,2021-07-16 09:06:00,Bob,5,Advised for a risk assessment,149.0
+T620,Low,New Jersey,Cyber Consultation,Access Management,2021-12-17 15:30:00,2022-03-22 09:32:00,Bob,5,Resolved,95.0
+T621,Low,California,Data Privacy,Privacy Assessment,2021-12-20 11:42:00,2021-12-20 12:04:00,Cinderalla,2,Recommended Threat Assessment,1.0
+T622,Low,Kentucky,Data Leak,Vishing,2021-12-20 15:57:00,2022-02-17 17:35:00,Aleena,4,Recommended Threat Assessment,60.0
+T623,High,California,Data Privacy,PCI-DSS,2021-12-21 06:05:00,2021-12-21 14:21:00,Michael,5,Advised for a risk assessment,1.0
+T624,High,Colorado,Data Privacy,PCI-DSS,2021-12-30 03:56:00,2021-12-30 17:53:00,Benny,5,Advised for a risk assessment,1.0
+T625,Low,Georgia,Cyber Consultation,Access Management,2021-12-30 15:22:00,2021-12-30 15:31:00,Allan,4,Advised for a risk assessment,1.0
+T626,High,California,Security Gap,Obsolete Software,2021-12-30 15:50:00,2021-12-30 15:52:00,Allan,5,Recommended Threat Assessment,1.0
+T627,High,New Jersey,Data Leak,Phishing,2021-12-30 16:12:00,2022-03-01 11:48:00,Allan,2,Advised for a risk assessment,61.0
+T63,Medium,New York,Data Leak,Insider Threat,2021-02-17 21:07:00,2021-07-13 18:57:00,Martina,2,Resolved,146.0
+T64,High,New York,Data Privacy,HIPAA,2021-02-18 20:29:00,2021-02-06 10:13:00,Charles,5,Recommended Threat Assessment,13.0
+T65,Low,California,Data Privacy,HIPAA,2021-02-18 20:43:00,2021-02-25 19:11:00,Charles,5,Recommended Threat Assessment,7.0
+T66,Medium,North Carolina,Data Leak,Phishing,2021-02-19 06:13:00,2021-02-19 18:52:00,Benny,5,Recommended Threat Assessment,1.0
+T67,High,Wisconsin,Cyber Security Breach,Malware Attack,2021-02-19 13:58:00,2021-02-06 10:20:00,Martina,5,Resolved,14.0
+T68,High,California,Data Leak,Vishing,2021-02-19 18:34:00,2021-02-24 12:17:00,Martina,5,Recommended Threat Assessment,5.0
+T69,Low,District of Columbia,Data Privacy,Privacy Assessment,2021-02-20 15:49:00,2021-02-28 10:11:00,Cinderalla,5,Recommended Threat Assessment,8.0
+T70,High,New York,Data Privacy,HIPAA,2021-02-20 21:23:00,2021-02-20 21:27:00,Martina,5,Resolved,1.0
+T71,Low,Pennsylvania,Data Privacy,Privacy Assessment,2021-02-25 11:01:00,,Sebastian,5,Resolved,
+T72,High,Virginia,Data Leak,Phishing,2021-02-26 11:43:00,2021-02-26 11:46:00,Kareema,5,Resolved,1.0
+T73,High,Florida,Security Gap,Obsolete Software,2021-02-26 19:27:00,2021-09-22 11:17:00,Robbin,4,Recommended Threat Assessment,208.0
+T74,High,North Carolina,Cyber Security Breach,Malware Attack,2021-02-27 15:58:00,2021-08-06 09:23:00,Martina,5,Advised for a risk assessment,160.0
+T75,Low,Washington,Cyber Consultation,New Application Launch,2021-02-28 15:09:00,2021-06-22 16:21:00,Kareema,4,Resolved,115.0
+T76,High,California,Data Privacy,GDPR,2021-03-03 12:46:00,2021-03-06 16:35:00,Sean,5,Advised for a risk assessment,4.0
+T77,High,California,Data Privacy,GDPR,2021-03-03 12:46:00,2021-03-06 16:35:00,Bob,5,Advised for a risk assessment,4.0
+T78,Low,Minnesota,Cyber Consultation,BCP/DR,2021-04-03 09:52:00,2021-03-17 09:44:00,Michael,5,Recommended Threat Assessment,18.0
+T79,Low,Minnesota,Cyber Consultation,BCP/DR,2021-04-03 09:52:00,2021-03-17 09:44:00,Bob,5,Recommended Threat Assessment,18.0
+T80,Low,New York,Security Gap,Password non-expiry,2021-04-03 10:55:00,2021-03-18 11:06:00,Allan,5,Advised for a risk assessment,16.0
+T81,High,Texas,Cyber Consultation,Application Offboarding,2021-05-03 21:27:00,2021-07-03 20:14:00,Martina,4,Advised for a risk assessment,61.0
+T82,High,Utah,Data Leak,Insider Threat,2021-05-03 21:33:00,2021-10-03 18:30:00,Martina,4,Recommended Threat Assessment,153.0
+T83,High,New Jersey,Data Privacy,HIPAA,2021-06-03 19:36:00,2021-11-03 10:17:00,Sean,2,Advised for a risk assessment,153.0
+T84,High,New Jersey,Data Privacy,HIPAA,2021-06-03 19:36:00,2021-11-03 10:17:00,Bob,2,Advised for a risk assessment,153.0
+T85,Low,California,Cyber Consultation,Segregation of Duties,2021-06-03 19:47:00,2021-10-03 11:04:00,Sylviya,4,Advised for a risk assessment,122.0
+T86,Low,Louisiana,Data Leak,Insider Threat,2021-07-03 14:38:00,2021-03-09 17:36:00,Kareema,4,Advised for a risk assessment,116.0
+T87,High,California,Cyber Consultation,Application Offboarding,2021-07-03 17:14:00,2021-03-18 11:03:00,Allan,4,Resolved,108.0
+T88,Low,Georgia,Data Privacy,PCI-DSS,2021-10-03 17:10:00,2021-03-20 10:34:00,Bob,3,Advised for a risk assessment,198.0
+T89,Low,New York,Data Leak,Phishing,2021-10-03 17:24:00,2021-03-21 20:07:00,Aleena,2,Resolved,196.0
+T90,High,California,Cyber Security Breach,Firewall,2021-10-03 17:24:00,2021-03-21 20:07:00,Aleena,3,Advised for a risk assessment,196.0
+T91,High,Virginia,Cyber Security Breach,Spyware,2021-11-03 12:15:00,2021-03-13 22:08:00,Charlotte,5,Advised for a risk assessment,235.0
+T92,Low,California,Data Privacy,HIPAA,2021-11-03 17:17:00,2021-03-13 11:46:00,Kareema,5,Resolved,236.0
+T93,Medium,California,Data Privacy,PCI-DSS,2021-11-03 23:36:00,2021-03-17 21:45:00,Sean,5,Resolved,232.0
+T94,Medium,California,Data Privacy,PCI-DSS,2021-11-03 23:36:00,2021-03-17 21:45:00,Martina,5,Resolved,232.0
+T95,High,Colorado,Data Privacy,HIPAA,2021-12-03 11:55:00,2021-03-17 09:47:00,Michael,5,Resolved,262.0
+T96,High,California,Cyber Security Breach,Firewall,2021-12-03 11:55:00,2021-03-17 09:47:00,Benny,5,Resolved,262.0
+T97,High,Colorado,Data Privacy,HIPAA,2021-12-03 11:55:00,2021-03-17 09:47:00,Benny,5,Resolved,262.0
+T98,High,Virginia,Cyber Consultation,BCP/DR,2021-12-03 17:45:00,2021-03-13 11:45:00,Kareema,4,Advised for a risk assessment,266.0
+T99,High,Utah,Data Privacy,GDPR,2021-03-13 14:20:00,2021-03-17 10:43:00,Benny,5,Resolved,4.0
