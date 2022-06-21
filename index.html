@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="static/css/style.css">
 </head>
 <body>
-    <!--  Jumbotron-->
+    <!--  Jumbotron  -->
     <div class="container">
         <div class="row">
             <div class="col-md-12 jumbotron text-center">
@@ -22,6 +22,33 @@
             </div>
         </div>
     </div>
+
+    <!--  Search Criteria  -->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="well">
+                    <h4 style="color: black;">Search Criteria</h4>
+                    <form>
+                        <label style="color: black;"><strong>Assignee</strong></label>
+                            <select class="Test" id="holders">
+                            </select>
+                    </form>
+                    <form>
+                        <label style="color: black;"><strong>Category</strong></label>
+                            <select class="Test" id="cats">
+                            </select>
+                    </form>
+                    <form>
+                        <label style="color: black;"><strong>Subcategory</strong></label>
+                            <select class="Test" id="subcats">
+                            </select>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
     <script src="static/js/CleanedTickets.js"></script>
     <script src="static/js/app.js"></script>
