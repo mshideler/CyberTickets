@@ -1,4 +1,4 @@
-Ticket No,Priority,State,Category,Sub Category,Create Date,Completed Date,Assignee,Customer Rating,Outcome,Days Open
+Ticket_No,Priority,State,Category,Subcategory,Create_Date,Completed_Date,Assignee,Customer_Rating,Outcome,Days_Open
 T01,High,California,Data Privacy,GDPR,2021-03-01 12:46:00,2021-03-06 16:35:00,Bob,5,Advised for a risk assessment,6.0
 T02,Low,Minnesota,Cyber Consultation,BCP/DR,2021-04-01 09:52:00,2021-01-17 09:44:00,Bob,5,Recommended Threat Assessment,75.0
 T03,High,Maryland,Cyber Security Breach,Firewall,2021-04-01 10:11:00,2021-04-01 11:43:00,Allan,5,Recommended Threat Assessment,1.0
