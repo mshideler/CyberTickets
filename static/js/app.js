@@ -6,10 +6,48 @@ function init() {
 
     // Populate the select options
     d3.json("Tickets.json").then((data) => {
+        //console.log(data);
         var assignees = data.Assignee;
+        //console.log(assignees)
+        var categories = data.Category;
+        console.log(categories)
+        var subcategories = data.Subcategory;
+        console.log(subcategories)
 
-    });
+    //Build options lists
+    assignees.forEach((assignee) => {
+        selectorA
+            .append("option")
+            .text(assignee)
+            .property("value", assignee);
+        })
+    
+    categories.forEach((category) => {
+        selectorC
+            .append("option")
+            .text(category)
+            .property("value", category);
+        })
+    
+    subcategories.forEach((subcategory) => {
+        selectorS
+            .append("option")
+            .text(subcategory)
+            .property("value", subcategory);
+        })
+    
+    })
+        
+}
 
+// Initialize the dashboard
+init();
 
+function optionChanged(newSelection) {
+    buildCharts(newSelection);
+}
 
+// Create buildCharts function
+function buildCharts(assignee) {
+    
 }
