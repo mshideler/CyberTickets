@@ -10,9 +10,9 @@ function init() {
         var assignees = data.Assignee;
         //console.log(assignees)
         var categories = data.Category;
-        console.log(categories)
+        //console.log(categories)
         var subcategories = data.Subcategory;
-        console.log(subcategories)
+        //console.log(subcategories)
 
     //Build options lists
     assignees.forEach((assignee) => {
@@ -43,11 +43,18 @@ function init() {
 // Initialize the dashboard
 init();
 
+buildCharts();
+
 function optionChanged(newSelection) {
     buildCharts(newSelection);
 }
 
 // Create buildCharts function
-function buildCharts(assignee) {
-    
+function buildCharts(category) {
+    d3.json("Tickets.json").then((data) => {
+        var groupCat = categories.groupBy();
+        //console.log(tickets);
+
+
+})
 }
