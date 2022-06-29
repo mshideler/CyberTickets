@@ -38,3 +38,60 @@ for (i=0; i < subcategories.length; i++){
 //var tbody = d3.select("tbody");
 
 //function buildTable
+
+// function init() {
+//     // Grab a reference to the dropdown select element
+//     var selectorSubcat = d3.select("#selSubcat");
+//     var selectorState = d3.select("#selState");
+
+//     // Populate the select options
+//     d3.json("Tickets.json").then((data) => {
+//         //console.log(data);
+//         var subcategories = data.Subcategory;
+//         //console.log(subcategories)
+//         var states = data.State;
+//         //console.log(states)
+        
+//     //Build options lists
+//     subcategories.forEach((subcategory) => {
+//         selectorSubcat
+//             .append("option")
+//             .text(subcategory)
+//             .property("value", subcategory);
+//         });
+    
+//     states.forEach((state) => {
+//         selectorState
+//             .append("option")
+//             .text(state)
+//             .property("value", state);
+//         });
+
+//     // Use first state to build initial plots and table
+//     var firstState = states[0];
+//     console.log(firstState)    ;
+//     // buildCharts(firstState);
+//     // buildTable(firstState);
+    
+//     });
+        
+// }
+
+// Initialize the dashboard
+//init();
+
+//buildCharts();
+
+//function optionChanged(newSelection) {
+//    buildCharts(newSelection);
+//}
+
+// Create subcat function
+//function subcat(category) {
+//    d3.json("Tickets.json").then((data) => {
+//        var groupCat = categories.groupBy();
+        //console.log(tickets);
+
+
+//})
+//}

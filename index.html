@@ -25,21 +25,84 @@
 
     <!--  Search Criteria  -->
     <div class="row">
-        <div class="col-md-3">
+        <div class="col-md-2"></div>
+        <div class="col-md-4">
             <div class="well">
                 <h5 style="color: black;">Search Criteria</h5>
-                <label style="color: black;"><strong>Assignee</strong></label>
-                <select id="selAssignee" onchange="optionChanged(this.value)"></select><br> 
-                <label style="color: black;"><strong>Category</strong></label>
-                <select id="selCategory" onchange="optionChanged(this.value)"></select><br>
-                <label style="color: black;"><strong>Subcatory</strong></label>
-                <select id="selSubcat" onchange="optionChanged(this.value)"></select>
+                <form>
+                    <label style="color: black;"><strong>Ticket_No</strong></label>
+                        <select class="Test" id="ticketno">
+                        </select>
+                </form>
+                <form>
+                    <label style="color: black;"><strong>Priority</strong></label>
+                        <select class="Test" id="priorities">
+                        </select>
+                </form>
+                <form>
+                    <label style="color: black;"><strong>State</strong></label>
+                        <select class="Test" id="states">
+                        </select>
+                </form>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="well">
+                <br>
+                <form>
+                    <label style="color: black;"><strong>Category</strong></label>
+                        <select class="Test" id="cats">
+                        </select>
+                </form>
+                <form>
+                    <label style="color: black;"><strong>Subcategory</strong></label>
+                        <select class="Test" id="subcats">
+                        </select>
+                </form>
+                <form>
+                    <label style="color: black;"><strong>Assignee</strong></label>
+                        <select class="Test" id="holders">
+                        </select>
+                </form>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="well">
+                <div id="result">
+                    <a class="btn btn-secondary" role="button" style="color: white">Search</a>
+                    <a class="btn btn-dark" role="button">Reset</a>
+                </div>
             </div>
         </div>
     </div>
 
+    <!--  Table Setup  -->
+    <div class="row">
+        <div class="col-md-12">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Ticket_No</th>
+                        <th>Priority</th>
+                        <th>State</th>
+                        <th>Category</th>
+                        <th>Subcategory</th>
+                        <th>Create_Date</th>
+                        <th>Completed_Date</th>
+                        <th>Assignee</th>
+                        <th>Customer_Rating</th>
+                        <th>Outcome</th>
+                        <th>Days_Open</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+    
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
-    <!-- <script src="static/js/CleanedTickets.js"></script> -->
+    <script src="static/js/CleanedTickets.js"></script>
     <script src="static/js/app.js"></script>
 
 </body>
