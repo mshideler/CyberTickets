@@ -1,6 +1,6 @@
 var data = [
  {
-   "Ticket_No": "T01",
+   Ticket_No: "T01",
    "Priority": "High",
    "State": "California",
    "Category": "Data Privacy",
