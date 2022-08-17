@@ -14,5 +14,7 @@ Here is a link to "Cybersecurity Ticket Analysis," a story at Tableau Public dis
 
 [Cybersecurity Ticket Analysis](https://public.tableau.com/app/profile/marisa.shideler/viz/CyberTickets/CybersecurityStory?publish=yes)
 
+Just click the left and right arrows to navigate the pages.
+
 
 Thank you for visiting!
